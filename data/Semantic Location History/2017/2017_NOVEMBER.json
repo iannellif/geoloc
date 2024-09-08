@@ -1,0 +1,5654 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 525169411,
+        "longitudeE7": 134713087
+      },
+      "endLocation": {
+        "latitudeE7": 525167429,
+        "longitudeE7": 134731528
+      },
+      "duration": {
+        "startTimestamp": "2017-11-01T15:03:02.380Z",
+        "endTimestamp": "2017-11-01T15:06:59.347Z"
+      },
+      "distance": 126,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 71.70356039157085
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 7.714942866648511
+      }, {
+        "activityType": "CYCLING",
+        "probability": 7.080920482494219
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 525170326,
+          "lngE7": 134713535
+        }, {
+          "latE7": 525165061,
+          "lngE7": 134722585
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 525167429,
+        "longitudeE7": 134731528
+      },
+      "endLocation": {
+        "latitudeE7": 525542189,
+        "longitudeE7": 132920974
+      },
+      "duration": {
+        "startTimestamp": "2017-11-01T15:06:59.347Z",
+        "endTimestamp": "2017-11-01T15:38:13.350Z"
+      },
+      "distance": 16158,
+      "activityType": "IN_TRAIN",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_TRAIN",
+        "probability": 68.0122234668062
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 13.014338427400974
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.1698142965758
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 525249608,
+          "lngE7": 134648482,
+          "accuracyMeters": 23,
+          "timestamp": "2017-11-01T15:09:09.450Z"
+        }, {
+          "latE7": 525445408,
+          "lngE7": 134266847,
+          "accuracyMeters": 26,
+          "timestamp": "2017-11-01T15:15:00.965Z"
+        }, {
+          "latE7": 525477646,
+          "lngE7": 134180472,
+          "accuracyMeters": 27,
+          "timestamp": "2017-11-01T15:16:32.124Z"
+        }, {
+          "latE7": 525494749,
+          "lngE7": 134087222,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-01T15:17:38.694Z"
+        }, {
+          "latE7": 525493271,
+          "lngE7": 133900250,
+          "accuracyMeters": 64,
+          "timestamp": "2017-11-01T15:19:52.709Z"
+        }, {
+          "latE7": 525340229,
+          "lngE7": 133281962,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-01T15:28:02.386Z"
+        }, {
+          "latE7": 525379985,
+          "lngE7": 133264393,
+          "accuracyMeters": 98,
+          "timestamp": "2017-11-01T15:30:13.994Z"
+        }, {
+          "latE7": 525472345,
+          "lngE7": 133132244,
+          "accuracyMeters": 32,
+          "timestamp": "2017-11-01T15:33:23.559Z"
+        }, {
+          "latE7": 525473444,
+          "lngE7": 133092900,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-01T15:35:33.369Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 15048.853606180564
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 525588327,
+        "longitudeE7": 132884374,
+        "placeId": "ChIJadmfUz5XqEcRRll0R83YLLM",
+        "address": "Zufahrt zum Flughafen Tegel, 13405 Berlin, Deutschland",
+        "name": "Berlin Tegel Airport",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 100.0,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-01T15:38:13.350Z",
+        "endTimestamp": "2017-11-01T18:11:11.214Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 525554302,
+      "centerLngE7": 132946215,
+      "visitConfidence": 91,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 525546344,
+          "lngE7": 132923612,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-01T15:42:04.612Z"
+        }, {
+          "latE7": 525548380,
+          "lngE7": 132933672,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-01T15:48:50.467Z"
+        }, {
+          "latE7": 525557024,
+          "lngE7": 132962074,
+          "accuracyMeters": 25,
+          "timestamp": "2017-11-01T15:51:28.732Z"
+        }, {
+          "latE7": 525550343,
+          "lngE7": 132953667,
+          "accuracyMeters": 27,
+          "timestamp": "2017-11-01T16:14:31.230Z"
+        }, {
+          "latE7": 525559546,
+          "lngE7": 132954848,
+          "accuracyMeters": 30,
+          "timestamp": "2017-11-01T16:21:45.638Z"
+        }, {
+          "latE7": 525556852,
+          "lngE7": 132948695,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-01T16:43:49.413Z"
+        }, {
+          "latE7": 525556852,
+          "lngE7": 132948695,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-01T17:29:13.364Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1686.2100756678171
+      },
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 525588327,
+        "longitudeE7": 132884374
+      },
+      "endLocation": {
+        "latitudeE7": 500379326,
+        "longitudeE7": 85621518
+      },
+      "duration": {
+        "startTimestamp": "2017-11-01T18:11:11.214Z",
+        "endTimestamp": "2017-11-01T19:45:47.575Z"
+      },
+      "distance": 476587,
+      "activityType": "FLYING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "FLYING",
+        "probability": 97.5902467979197
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.9200535581094036
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.26994426620699535
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 525658990,
+          "lngE7": 133406129,
+          "accuracyMeters": 500,
+          "timestamp": "2017-11-01T18:14:53.882Z"
+        }, {
+          "latE7": 500409105,
+          "lngE7": 85584799,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-01T19:24:25.023Z"
+        }, {
+          "latE7": 500412723,
+          "lngE7": 85591010,
+          "accuracyMeters": 82,
+          "timestamp": "2017-11-01T19:24:55.508Z"
+        }, {
+          "latE7": 500467049,
+          "lngE7": 85595371,
+          "accuracyMeters": 128,
+          "timestamp": "2017-11-01T19:25:57.007Z"
+        }, {
+          "latE7": 500461085,
+          "lngE7": 85664483,
+          "accuracyMeters": 400,
+          "timestamp": "2017-11-01T19:28:33.253Z"
+        }, {
+          "latE7": 500469971,
+          "lngE7": 85675451,
+          "accuracyMeters": 400,
+          "timestamp": "2017-11-01T19:29:35.338Z"
+        }, {
+          "latE7": 500467707,
+          "lngE7": 85662385,
+          "accuracyMeters": 500,
+          "timestamp": "2017-11-01T19:36:13.887Z"
+        }, {
+          "latE7": 500509273,
+          "lngE7": 85712231,
+          "accuracyMeters": 500,
+          "timestamp": "2017-11-01T19:43:17.103Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 442172.36955969996
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 500379326,
+        "longitudeE7": 85621518,
+        "placeId": "ChIJeflCVHQLvUcRMfP4IU3YdIo",
+        "address": "60547 Frankfurt am Main, Deutschland",
+        "name": "Frankfurt Airport",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 98.81479,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-01T19:45:47.575Z",
+        "endTimestamp": "2017-11-01T20:37:38.088Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 500498247,
+      "centerLngE7": 85740099,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 500528847,
+        "longitudeE7": 85698686,
+        "placeId": "ChIJlbKWTZUKvUcRmNzVHudkGEY",
+        "address": "Hugo-Eckener-Ring, 60549 Frankfurt am Main, Deutschland",
+        "name": "Frankfurt am Main Flughafen Fernbahnhof",
+        "locationConfidence": 0.36145175
+      }, {
+        "latitudeE7": 500533000,
+        "longitudeE7": 85707800,
+        "placeId": "ChIJI4R8wMAKvUcRST1V8ey_mtc",
+        "address": "Frankfurt Fernbahnhof, The Squaire, 60549 Frankfurt am Main, Deutschland",
+        "name": "Starbucks",
+        "locationConfidence": 0.17206022
+      }, {
+        "latitudeE7": 500531980,
+        "longitudeE7": 85716030,
+        "placeId": "ChIJTRsGkYQLvUcRXcdGbp6xubA",
+        "address": "The Squaire, Am Flughafen, 60549 Frankfurt am Main, Deutschland",
+        "name": "Hilton Garden Inn Frankfurt Airport",
+        "locationConfidence": 0.11896866
+      }, {
+        "latitudeE7": 500529777,
+        "longitudeE7": 85695723,
+        "placeId": "ChIJv5nG7-kKvUcREWK4PZZzNe0",
+        "address": "Busparkplatz P36, 60547 Frankfurt am Main, Deutschland",
+        "name": "Frankfurt (Flughafen/ The Squaire)",
+        "locationConfidence": 0.05140849
+      }, {
+        "latitudeE7": 500526009,
+        "longitudeE7": 85689034,
+        "placeId": "ChIJC1ySUJUKvUcRZxsyOa5BxDw",
+        "address": "Am Flughafen 17/Ebene 5, 60549 Frankfurt am Main, Deutschland",
+        "name": "ALEX Frankfurt The Squaire",
+        "locationConfidence": 0.04356936
+      }, {
+        "latitudeE7": 500498469,
+        "longitudeE7": 85715166,
+        "placeId": "ChIJmTfX-rYKvUcRJJOIY6oyqig",
+        "address": "B Terminal 1, Flughafen Frankfurt, 60549 Frankfurt am Main, Deutschland",
+        "name": "Kiko Milano Frankfurt am Main Airport",
+        "locationConfidence": 0.041660033
+      }, {
+        "latitudeE7": 500528360,
+        "longitudeE7": 85687190,
+        "placeId": "ChIJ5SfZXpUKvUcRtSuI0ggk_I0",
+        "address": "Düsseldorfer Str. 1, 60329 Frankfurt am Main, Deutschland",
+        "name": "Jedox AG",
+        "locationConfidence": 0.03343543
+      }, {
+        "latitudeE7": 500525177,
+        "longitudeE7": 85686862,
+        "placeId": "ChIJzRkR4L8KvUcRlV-OKT_TUuw",
+        "address": "Am Flughafen, 60549 Frankfurt am Main, Deutschland",
+        "name": "Virgin Media",
+        "locationConfidence": 0.028537687
+      }, {
+        "latitudeE7": 500523687,
+        "longitudeE7": 85673866,
+        "placeId": "ChIJY9ZMLL4KvUcRxZhQ3e-7ask",
+        "address": "The Squaire 12/5th floor, 60549 Frankfurt am Main, Germany",
+        "name": "plug and work Frankfurt THE SQUAIRE Conference Center",
+        "locationConfidence": 0.02654068
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 500511237,
+          "lngE7": 85729334,
+          "accuracyMeters": 300,
+          "timestamp": "2017-11-01T19:49:21.251Z"
+        }, {
+          "latE7": 500510040,
+          "lngE7": 85745468,
+          "accuracyMeters": 100,
+          "timestamp": "2017-11-01T19:50:51.366Z"
+        }, {
+          "latE7": 500510040,
+          "lngE7": 85745468,
+          "accuracyMeters": 100,
+          "timestamp": "2017-11-01T19:51:21.378Z"
+        }, {
+          "latE7": 500503118,
+          "lngE7": 85751599,
+          "accuracyMeters": 200,
+          "timestamp": "2017-11-01T19:56:39.271Z"
+        }, {
+          "latE7": 500494832,
+          "lngE7": 85732560,
+          "accuracyMeters": 500,
+          "timestamp": "2017-11-01T20:00:44.252Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 893.7070000292752
+      },
+      "locationConfidence": 89,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 500379326,
+        "longitudeE7": 85621518
+      },
+      "endLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "duration": {
+        "startTimestamp": "2017-11-01T20:37:38.088Z",
+        "endTimestamp": "2017-11-02T13:53:56.823Z"
+      },
+      "distance": 9546423,
+      "activityType": "FLYING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "FLYING",
+        "probability": 86.69912319751559
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.838619450159311
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.3885242688862744
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 500479958,
+          "lngE7": 85802258,
+          "accuracyMeters": 500,
+          "timestamp": "2017-11-01T20:45:28.312Z"
+        }, {
+          "latE7": -231923440,
+          "lngE7": -458781169,
+          "accuracyMeters": 4,
+          "timestamp": "2017-11-02T13:39:39Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 9747965.413157703
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-02T13:53:56.823Z",
+        "endTimestamp": "2017-11-03T21:28:06.716Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231979397,
+          "lngE7": -458895858,
+          "accuracyMeters": 31,
+          "timestamp": "2017-11-02T13:53:56.823Z"
+        }, {
+          "latE7": -231985188,
+          "lngE7": -458895721,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-02T13:56:30Z"
+        }, {
+          "latE7": -231991264,
+          "lngE7": -458901326,
+          "accuracyMeters": 40,
+          "timestamp": "2017-11-03T17:20:39.860Z"
+        }, {
+          "latE7": -231986159,
+          "lngE7": -458900764,
+          "accuracyMeters": 18,
+          "timestamp": "2017-11-03T17:21:25.860Z"
+        }, {
+          "latE7": -231992577,
+          "lngE7": -458893121,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-03T17:43:03.860Z"
+        }, {
+          "latE7": -231983596,
+          "lngE7": -458891073,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-03T20:10:30.236Z"
+        }, {
+          "latE7": -231983596,
+          "lngE7": -458891073,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-03T20:15:51.911Z"
+        }, {
+          "latE7": -231983596,
+          "lngE7": -458891073,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-03T20:27:05.341Z"
+        }, {
+          "latE7": -231983596,
+          "lngE7": -458891073,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-03T20:36:48.037Z"
+        }, {
+          "latE7": -231983596,
+          "lngE7": -458891073,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-03T20:49:02.813Z"
+        }, {
+          "latE7": -231983596,
+          "lngE7": -458891073,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-03T21:11:35.885Z"
+        }, {
+          "latE7": -231983596,
+          "lngE7": -458891073,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-03T21:19:50.543Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 556.2651183455432
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405
+      },
+      "duration": {
+        "startTimestamp": "2017-11-03T21:28:06.716Z",
+        "endTimestamp": "2017-11-03T22:08:12.466Z"
+      },
+      "distance": 646,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 77.45718171054638
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 19.910252947666514
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.307513817263118
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }, {
+          "latE7": -232000007,
+          "lngE7": -458909988
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405,
+        "placeId": "ChIJF7dEgW5KzJQRF2BXMrcNzMI",
+        "address": "R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - São Paulo, 12243-750, Brasil",
+        "name": "Park Santos Dumont",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 53.822887,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-03T22:08:12.466Z",
+        "endTimestamp": "2017-11-03T22:45:12.460Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -232009017,
+      "centerLngE7": -458919033,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232010009,
+        "longitudeE7": -458924521,
+        "placeId": "ChIJ-ac3HRhKzJQRZbosKZdA_a4",
+        "address": "Av. Dr. Ademar de Barros, 999 - Jardim Sao Dimas, São José dos Campos - SP, 12245-010, Brasil",
+        "name": "SESC",
+        "locationConfidence": 39.20528
+      }, {
+        "latitudeE7": -232019160,
+        "longitudeE7": -458932719,
+        "placeId": "ChIJ0S03RW5KzJQRpDFKdUa5jf8",
+        "name": "Quintessência Academia Studio",
+        "locationConfidence": 3.133268
+      }, {
+        "latitudeE7": -232018864,
+        "longitudeE7": -458920635,
+        "placeId": "ChIJoUQpVW5KzJQRBtaBMJ4X-Sc",
+        "name": "UPTIME - Comunicação em Inglês",
+        "locationConfidence": 0.13874948
+      }, {
+        "latitudeE7": -232006123,
+        "longitudeE7": -458927565,
+        "placeId": "ChIJjSSJZ25KzJQRG4oohFxycFA",
+        "address": "Av. Dr. Ademar de Barros, 960 - Jardim Sao Dimas, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "Hering",
+        "locationConfidence": 0.09036815
+      }, {
+        "latitudeE7": -232019361,
+        "longitudeE7": -458916418,
+        "placeId": "ChIJc6lYBG9KzJQRy-9vKAQpzQU",
+        "name": "Arlechino Comércio de Alimentos",
+        "locationConfidence": 0.08523829
+      }, {
+        "latitudeE7": -231999825,
+        "longitudeE7": -458925367,
+        "placeId": "ChIJ__8be25KzJQRzI_lrCgMPfY",
+        "address": "Rua Romeu Carnevalli, 210 - Bela vista, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "EVS Herbalife Flavia - Pronta Entrega + Brindes",
+        "locationConfidence": 0.08438701
+      }, {
+        "latitudeE7": -231988660,
+        "longitudeE7": -458919660,
+        "placeId": "ChIJ36xfLmxKzJQRjIrXb2uppG0",
+        "address": "Av. Dr. Ademar de Barros, 750 - Vila Adyana, São José dos Campos - SP, 12245-010, Brasil",
+        "name": "Droga Raia",
+        "locationConfidence": 0.082565024
+      }, {
+        "latitudeE7": -232015317,
+        "longitudeE7": -458921238,
+        "placeId": "ChIJzTn1VG5KzJQRYsLoHZq8vqk",
+        "name": "New York Dogs",
+        "locationConfidence": 0.0800864
+      }, {
+        "latitudeE7": -232024876,
+        "longitudeE7": -458930426,
+        "placeId": "ChIJncwBiwVLzJQReYa2JeESuc4",
+        "address": "Av. Dr. Ademar de Barros, 1163 - Vila Adyana, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "Itali Genils Pizzas",
+        "locationConfidence": 0.079549275
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232010230,
+          "lngE7": -458922259,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-03T22:08:12.466Z"
+        }, {
+          "latE7": -232009633,
+          "lngE7": -458916875,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-03T22:10:11.667Z"
+        }, {
+          "latE7": -232009633,
+          "lngE7": -458916875,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-03T22:12:12.757Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 55.42485348326172
+      },
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-03T22:45:12.460Z",
+        "endTimestamp": "2017-11-04T00:48:27.490Z"
+      },
+      "distance": 420,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 83.92429104933618
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.487857731102746
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4098554667139029
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232000007,
+          "lngE7": -458909988
+        }, {
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Avenida Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - São Paulo, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 65.72601
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T00:48:27.490Z",
+        "endTimestamp": "2017-11-04T14:22:42.353Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -231983921,
+      "centerLngE7": -458891473,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405,
+        "placeId": "ChIJF7dEgW5KzJQRF2BXMrcNzMI",
+        "address": "R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP, 12243-750, Brasil",
+        "name": "Park Santos Dumont",
+        "locationConfidence": 16.444887
+      }, {
+        "latitudeE7": -231975919,
+        "longitudeE7": -458884334,
+        "placeId": "ChIJL6Z33mtKzJQR8IhczoHV7V0",
+        "address": "Praça Monsenhor Ascanio Brandão, 34 - Jardim Sao Dimas, São José dos Campos - SP, 12245-440, Brasil",
+        "name": "Caldinho e Pizzaria São Dimas",
+        "locationConfidence": 1.1845592
+      }, {
+        "latitudeE7": -231988043,
+        "longitudeE7": -458887569,
+        "placeId": "ChIJ_UdGQ2lKzJQR5wys6V3FCec",
+        "name": "Milla Chic",
+        "locationConfidence": 0.47192663
+      }, {
+        "latitudeE7": -231989896,
+        "longitudeE7": -458890842,
+        "placeId": "ChIJ0egmUWlKzJQRAIlpHe3Rgkc",
+        "address": "Av. Engenheiro Francisco José Longo, 681 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Ana Letícia Carneiro Silva Restaurante",
+        "locationConfidence": 0.33835316
+      }, {
+        "latitudeE7": -231988660,
+        "longitudeE7": -458919660,
+        "placeId": "ChIJ36xfLmxKzJQRjIrXb2uppG0",
+        "address": "Av. Dr. Ademar de Barros, 750 - Vila Adyana, São José dos Campos - SP, 12245-010, Brasil",
+        "name": "Droga Raia",
+        "locationConfidence": 0.3302862
+      }, {
+        "latitudeE7": -231963862,
+        "longitudeE7": -458909230,
+        "placeId": "ChIJIcQM62xKzJQR8jOFWgA5d78",
+        "address": "Av. Dr. Ademar de Barros, 477 - E 489 - Jardim Sao Dimas, São José dos Campos - SP, 12245-010, Brasil",
+        "name": "Drugstore Sao Paulo",
+        "locationConfidence": 0.3186234
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJi4rQVmlKzJQRZHgc-sixPnQ",
+        "name": "Antônio Carlos da Silva Restaurante",
+        "locationConfidence": 0.3157187
+      }, {
+        "latitudeE7": -231981661,
+        "longitudeE7": -458894434,
+        "placeId": "ChIJBVjJ8GtKzJQRi3EoZTflDKs",
+        "address": "Av. Engenheiro Francisco José Longo, 582 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "L I Capucci",
+        "locationConfidence": 0.26938498
+      }, {
+        "latitudeE7": -231996332,
+        "longitudeE7": -458872686,
+        "placeId": "ChIJ5073B2lKzJQRMFjI6pSVwEw",
+        "address": "R. Ilza Irma Moeller Coppio, 171 - Jardim Sao Dimas, São José dos Campos - SP, 12245-430, Brasil",
+        "name": "Trick Nick",
+        "locationConfidence": 0.25975168
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 52,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "endLocation": {
+        "latitudeE7": -231983715,
+        "longitudeE7": -458890887
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T14:22:42.353Z",
+        "endTimestamp": "2017-11-04T22:48:58.416Z"
+      },
+      "distance": 43421,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 86.74182200997336
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.343137595303295
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 3.658765069574013
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231988182,
+          "lngE7": -458892135
+        }, {
+          "latE7": -230425243,
+          "lngE7": -457744636
+        }, {
+          "latE7": -231983642,
+          "lngE7": -458891067
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -230402073,
+          "lngE7": -457758949,
+          "accuracyMeters": 6,
+          "timestamp": "2017-11-04T18:45:21.679Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231983715,
+          "longitudeE7": -458890887,
+          "accuracyMetres": 22
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-04T22:51:52.333Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Avenida Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - São Paulo, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 50.482555
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T22:48:58.416Z",
+        "endTimestamp": "2017-11-04T23:14:26.014Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -231983547,
+      "centerLngE7": -458891335,
+      "visitConfidence": 49,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231990355,
+        "longitudeE7": -458898324,
+        "placeId": "ChIJQ_svrW5KzJQRfvGXohLi1NM",
+        "address": "R. Helena David Neme, 183 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 16.352861
+      }, {
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405,
+        "placeId": "ChIJF7dEgW5KzJQRF2BXMrcNzMI",
+        "address": "R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP, 12243-750, Brasil",
+        "name": "Park Santos Dumont",
+        "locationConfidence": 12.983899
+      }, {
+        "latitudeE7": -231975919,
+        "longitudeE7": -458884334,
+        "placeId": "ChIJL6Z33mtKzJQR8IhczoHV7V0",
+        "address": "Praça Monsenhor Ascanio Brandão, 34 - Jardim Sao Dimas, São José dos Campos - SP, 12245-440, Brasil",
+        "name": "Caldinho e Pizzaria São Dimas",
+        "locationConfidence": 1.4239392
+      }, {
+        "latitudeE7": -231989111,
+        "longitudeE7": -458874253,
+        "placeId": "ChIJXfLPCmlKzJQR8A7QgTlxPFU",
+        "address": "R. Ilza Irma Moeller Coppio, 95 - Jardim Sao Dimas, São José dos Campos - SP, 12245-430, Brasil",
+        "name": "Boteco do Jeka",
+        "locationConfidence": 0.55540836
+      }, {
+        "latitudeE7": -231989896,
+        "longitudeE7": -458890842,
+        "placeId": "ChIJ0egmUWlKzJQRAIlpHe3Rgkc",
+        "address": "Av. Engenheiro Francisco José Longo, 681 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Ana Letícia Carneiro Silva Restaurante",
+        "locationConfidence": 0.5301806
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJi4rQVmlKzJQRZHgc-sixPnQ",
+        "name": "Antônio Carlos da Silva Restaurante",
+        "locationConfidence": 0.52996975
+      }, {
+        "latitudeE7": -231988043,
+        "longitudeE7": -458887569,
+        "placeId": "ChIJ_UdGQ2lKzJQR5wys6V3FCec",
+        "name": "Milla Chic",
+        "locationConfidence": 0.49720013
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJ5QupSGlKzJQR__9H1MPgABw",
+        "name": "Eliane Ribeiro Nunes Restaurante",
+        "locationConfidence": 0.4647899
+      }, {
+        "latitudeE7": -231994832,
+        "longitudeE7": -458867897,
+        "placeId": "ChIJpSupLGpKzJQR-_v3f_1MjyY",
+        "address": "R. Paraibuna, 838 - Jardim Sao Dimas, São José dos Campos - SP, 12245-021, Brasil",
+        "name": "Hocus Pocus Studio \u0026 Café",
+        "locationConfidence": 0.41022858
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231983596,
+        "longitudeE7": -458891073
+      },
+      "endLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T23:14:26.014Z",
+        "endTimestamp": "2017-11-04T23:34:58.905Z"
+      },
+      "distance": 59,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 62.00475424750099
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.44376504690479
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9436660349310646
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231983642,
+          "lngE7": -458891067
+        }, {
+          "latE7": -230424613,
+          "lngE7": -457732963
+        }, {
+          "latE7": -231988182,
+          "lngE7": -458892135
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -230403258,
+          "lngE7": -457758039,
+          "accuracyMeters": 10,
+          "timestamp": "2017-11-04T23:24:27.679Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Avenida Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - São Paulo, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 66.50338
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T23:34:58.905Z",
+        "endTimestamp": "2017-11-05T15:14:40.171Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -231983920,
+      "centerLngE7": -458891491,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405,
+        "placeId": "ChIJF7dEgW5KzJQRF2BXMrcNzMI",
+        "address": "R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP, 12243-750, Brasil",
+        "name": "Park Santos Dumont",
+        "locationConfidence": 12.3091
+      }, {
+        "latitudeE7": -231975919,
+        "longitudeE7": -458884334,
+        "placeId": "ChIJL6Z33mtKzJQR8IhczoHV7V0",
+        "address": "Praça Monsenhor Ascanio Brandão, 34 - Jardim Sao Dimas, São José dos Campos - SP, 12245-440, Brasil",
+        "name": "Caldinho e Pizzaria São Dimas",
+        "locationConfidence": 2.6244082
+      }, {
+        "latitudeE7": -231994832,
+        "longitudeE7": -458867897,
+        "placeId": "ChIJpSupLGpKzJQR-_v3f_1MjyY",
+        "address": "R. Paraibuna, 838 - Jardim Sao Dimas, São José dos Campos - SP, 12245-021, Brasil",
+        "name": "Hocus Pocus Studio \u0026 Café",
+        "locationConfidence": 0.8544921
+      }, {
+        "latitudeE7": -231989111,
+        "longitudeE7": -458874253,
+        "placeId": "ChIJXfLPCmlKzJQR8A7QgTlxPFU",
+        "address": "R. Ilza Irma Moeller Coppio, 95 - Jardim Sao Dimas, São José dos Campos - SP, 12245-430, Brasil",
+        "name": "Boteco do Jeka",
+        "locationConfidence": 0.6041689
+      }, {
+        "latitudeE7": -231989896,
+        "longitudeE7": -458890842,
+        "placeId": "ChIJ0egmUWlKzJQRAIlpHe3Rgkc",
+        "address": "Av. Engenheiro Francisco José Longo, 681 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Ana Letícia Carneiro Silva Restaurante",
+        "locationConfidence": 0.5512287
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJi4rQVmlKzJQRZHgc-sixPnQ",
+        "name": "Antônio Carlos da Silva Restaurante",
+        "locationConfidence": 0.5440659
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJ5QupSGlKzJQR__9H1MPgABw",
+        "name": "Eliane Ribeiro Nunes Restaurante",
+        "locationConfidence": 0.5097499
+      }, {
+        "latitudeE7": -231988043,
+        "longitudeE7": -458887569,
+        "placeId": "ChIJ_UdGQ2lKzJQR5wys6V3FCec",
+        "name": "Milla Chic",
+        "locationConfidence": 0.46731022
+      }, {
+        "latitudeE7": -231963862,
+        "longitudeE7": -458909230,
+        "placeId": "ChIJIcQM62xKzJQR8jOFWgA5d78",
+        "address": "Av. Dr. Ademar de Barros, 477 - E 489 - Jardim Sao Dimas, São José dos Campos - SP, 12245-010, Brasil",
+        "name": "Drugstore Sao Paulo",
+        "locationConfidence": 0.43506387
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 52,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "endLocation": {
+        "latitudeE7": -232007457,
+        "longitudeE7": -458920404
+      },
+      "duration": {
+        "startTimestamp": "2017-11-05T15:14:40.171Z",
+        "endTimestamp": "2017-11-05T20:18:35.330Z"
+      },
+      "distance": 3427,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 90.06888198156571
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 8.607281566478973
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.5136875006815897
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231988182,
+          "lngE7": -458892135
+        }, {
+          "latE7": -232007083,
+          "lngE7": -458920135
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232007457,
+        "longitudeE7": -458920404
+      },
+      "endLocation": {
+        "latitudeE7": -231983715,
+        "longitudeE7": -458890887
+      },
+      "duration": {
+        "startTimestamp": "2017-11-05T20:18:35.330Z",
+        "endTimestamp": "2017-11-05T20:57:36.723Z"
+      },
+      "distance": 400,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 69.23865603856633
+      }, {
+        "activityType": "WALKING",
+        "probability": 21.558126829214558
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.4550253005067026
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232006702,
+          "lngE7": -458922348
+        }, {
+          "latE7": -231983623,
+          "lngE7": -458890876
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231983715,
+          "longitudeE7": -458890887
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-05T20:57:36.723Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306,
+        "placeId": "ChIJt6XeVWlKzJQROPDP-Nob6Ek",
+        "address": "Avenida Engenheiro Francisco José Longo, 622 - Jardim Sao Dimas, São José dos Campos - São Paulo, Brasil",
+        "name": "Edifício Ipanema",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 15.625945
+      },
+      "duration": {
+        "startTimestamp": "2017-11-05T20:57:36.723Z",
+        "endTimestamp": "2017-11-06T10:22:03.735Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -231983154,
+      "centerLngE7": -458892993,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231982267,
+        "longitudeE7": -458891817,
+        "placeId": "ChIJ6eAf_WtKzJQRn2v4gpN8j18",
+        "address": "Av. Engenheiro Francisco José Longo, 595 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Natureba Sucos Lanches Açaí",
+        "locationConfidence": 15.13552
+      }, {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Av. Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "locationConfidence": 11.694744
+      }, {
+        "latitudeE7": -231981786,
+        "longitudeE7": -458891971,
+        "placeId": "ChIJ5yf2-WtKzJQRJFx_WZ10Z0Q",
+        "address": "Av. Engenheiro Francisco José Longo, 589 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Com-Sciência",
+        "locationConfidence": 7.187459
+      }, {
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405,
+        "placeId": "ChIJF7dEgW5KzJQRF2BXMrcNzMI",
+        "address": "R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP, 12243-750, Brasil",
+        "name": "Park Santos Dumont",
+        "locationConfidence": 6.940332
+      }, {
+        "latitudeE7": -231991384,
+        "longitudeE7": -458899301,
+        "placeId": "ChIJCYPyrW5KzJQRmD0ydqbBRWg",
+        "address": "R. Helena David Neme, 193D - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Cozinha da Tuca",
+        "locationConfidence": 4.9386163
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJi4rQVmlKzJQRZHgc-sixPnQ",
+        "name": "Antônio Carlos da Silva Restaurante",
+        "locationConfidence": 2.8419023
+      }, {
+        "latitudeE7": -231981661,
+        "longitudeE7": -458894434,
+        "placeId": "ChIJBVjJ8GtKzJQRi3EoZTflDKs",
+        "address": "Av. Engenheiro Francisco José Longo, 582 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "L I Capucci",
+        "locationConfidence": 1.7230145
+      }, {
+        "latitudeE7": -231975919,
+        "longitudeE7": -458884334,
+        "placeId": "ChIJL6Z33mtKzJQR8IhczoHV7V0",
+        "address": "Praça Monsenhor Ascanio Brandão, 34 - Jardim Sao Dimas, São José dos Campos - SP, 12245-440, Brasil",
+        "name": "Caldinho e Pizzaria São Dimas",
+        "locationConfidence": 1.7156224
+      }, {
+        "latitudeE7": -231989111,
+        "longitudeE7": -458874253,
+        "placeId": "ChIJXfLPCmlKzJQR8A7QgTlxPFU",
+        "address": "R. Ilza Irma Moeller Coppio, 95 - Jardim Sao Dimas, São José dos Campos - SP, 12245-430, Brasil",
+        "name": "Boteco do Jeka",
+        "locationConfidence": 0.8258289
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 12,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T10:22:03.735Z",
+        "endTimestamp": "2017-11-06T12:28:15.696Z"
+      },
+      "distance": 10787,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 72.44859299301176
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 11.079365649803131
+      }, {
+        "activityType": "WALKING",
+        "probability": 8.981262768985331
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }, {
+          "latE7": -231564693,
+          "lngE7": -457931594
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231572982,
+          "longitudeE7": -457926893
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-06T12:28:15.696Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893,
+        "placeId": "ChIJac0kXTRMzJQRoLj-d1Eyrzs",
+        "address": "Estrada Doutor Altino Bondensan, 500 - Eugênio de Melo, São José dos Campos - São Paulo, 12247-016, Brasil",
+        "name": "Technology Park São José dos Campos",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 99.97598,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T12:28:15.696Z",
+        "endTimestamp": "2017-11-06T18:36:37.653Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": -231575301,
+          "longitudeE7": -457934913,
+          "placeId": "ChIJnWmWSjRMzJQR_pOhWX1-ZaM",
+          "address": "Estr. Dr. Altino Bondensan, 500 - Coqueiro, São José dos Campos - São Paulo, 12247-016, Brasil",
+          "name": "Centro Nacional de Monitoramento e Alertas de Desastres Naturais",
+          "sourceInfo": {
+            "deviceTag": 1015178271
+          },
+          "locationConfidence": 97.61787,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-11-06T12:28:15.696Z",
+          "endTimestamp": "2017-11-06T18:36:37.653Z"
+        },
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "centerLatE7": -231576424,
+        "centerLngE7": -457934049,
+        "visitConfidence": 90,
+        "otherCandidateLocations": [{
+          "latitudeE7": -231577523,
+          "longitudeE7": -457932898,
+          "placeId": "ChIJnWmWSjRMzJQR_pOhWX1-ZaM",
+          "address": "Estrada Dr. Altino Bondensan, 500 - Eugênio de Melo, São José dos Campos - SP, 12247-016, Brasil",
+          "name": "CEMADEN",
+          "locationConfidence": 1.521861,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231621390,
+          "longitudeE7": -457952910,
+          "placeId": "ChIJXc9nhUlMzJQRyn03feoiz_k",
+          "address": "Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito - Eugênio de Melo, São José dos Campos - SP, 12247-014, Brasil",
+          "name": "FATEC São José dos Campos - Prof. Jessen Vidal",
+          "locationConfidence": 0.2476297,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231577948,
+          "longitudeE7": -457917685,
+          "placeId": "ChIJnZjyCDVMzJQRz51vvKev3cM",
+          "address": "Estrada Dr. Altino Bondensan, 500 - Distrito Eugênio de Melo, São José dos Campos - SP, 12230-002, Brasil",
+          "name": "Núcleo de Estruturas Leves - LEL/IPT",
+          "locationConfidence": 0.0719671,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231575195,
+          "longitudeE7": -457939616,
+          "placeId": "ChIJ8ercMzRMzJQRH9lwGtkSkmQ",
+          "address": "Jardim Satelite - BR-116, 136 - Jardim Satelite, São José dos Campos - SP, 12230-002, Brasil",
+          "name": "Centro de Desenvolvimento em Manufatura",
+          "locationConfidence": 0.040373497
+        }, {
+          "latitudeE7": -231568386,
+          "longitudeE7": -457928643,
+          "placeId": "ChIJhUYzfGtKzJQRfysFTXnKeMs",
+          "address": "Parque Tecnológico Centro Empresarial II - Estrada Dr. Altino Bondensan, 500 - Distrito - Eugênio de Melo, São José dos Campos - SP, 12247-016, Brazil",
+          "name": "Geopixel",
+          "locationConfidence": 0.03826182,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231567924,
+          "longitudeE7": -457928471,
+          "placeId": "ChIJX6mBWjRMzJQRX8a9bRGmzgg",
+          "address": "Parque Tecnológico - Estrada Dr. Altino Bondensan, 500 - Jardim Coqueiro, São José dos Campos - SP, 12247-016, Brasil",
+          "name": "Imersão Visual",
+          "locationConfidence": 0.026337655,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231565584,
+          "longitudeE7": -457918310,
+          "placeId": "ChIJ-e0xwrBLzJQRG-0_Zz1s9rg",
+          "address": "PIT - Parque de Inovação Tecnológica São José dos Campos - Estrada Dr. Altino Bondensan, 500 - Eugênio de Melo, São José dos Campos - SP, 12247-016, Brasil",
+          "name": "TICVALE",
+          "locationConfidence": 0.022631923,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231566170,
+          "longitudeE7": -457923880,
+          "placeId": "ChIJs-v99zRMzJQRFTJXY7MFDI4",
+          "name": "RASTREAL - Auto-Identificação e Rastreabilidade",
+          "locationConfidence": 0.02099424,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231577342,
+          "longitudeE7": -457914454,
+          "placeId": "ChIJg3q8FjVMzJQRBVcCJBRbZuM",
+          "address": "Jardim Coqueiro, São José dos Campos - SP, 12230-002, Brasil",
+          "name": "IPT / LEL",
+          "locationConfidence": 0.014326334,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 88,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": -231576424,
+      "centerLngE7": -457934049,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231582235,
+        "longitudeE7": -457882265,
+        "placeId": "ChIJ0cQzfbVNzJQRwP1rdYKWC-c",
+        "address": "Jardim Coqueiro, São José dos Campos - SP, 12247-004, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, 501",
+        "locationConfidence": 0.005993509,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231618676,
+        "longitudeE7": -457951994,
+        "placeId": "ChIJJ9MAjUlMzJQRZQ6dslvTgAc",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.00529356,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232299113,
+        "longitudeE7": -458849587,
+        "placeId": "ChIJcd8JM6rMzZQRHZYDmhgvtz4",
+        "address": "Jacareí - SP, Brasil",
+        "locationConfidence": 0.0051768683,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231624373,
+        "longitudeE7": -457947314,
+        "placeId": "ChIJTwf7KUpMzJQRAg3_fnFGVyg",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.0046197283,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231579408,
+        "longitudeE7": -457967704,
+        "placeId": "ChIJK3YW5DZMzJQRIWQ9sZFm_NE",
+        "address": "Rod. Pres. Dutra, 34 - Jardim Satelite, São José dos Campos - SP, 12230-002, Brasil",
+        "locationConfidence": 0.0019528858,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231621524,
+        "longitudeE7": -457949654,
+        "placeId": "ChIJ1eTliElMzJQR2FCd5OZIViM",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 9.788376E-4,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231577389,
+          "lngE7": -457934974,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-06T13:04:22.180Z"
+        }, {
+          "latE7": -231568865,
+          "lngE7": -457919028,
+          "accuracyMeters": 40,
+          "timestamp": "2017-11-06T17:49:33.029Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 754.3056074186724
+      },
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893
+      },
+      "endLocation": {
+        "latitudeE7": -231815909,
+        "longitudeE7": -458497706
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T18:36:37.653Z",
+        "endTimestamp": "2017-11-06T18:53:07.730Z"
+      },
+      "distance": 6327,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 68.21635722170096
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 17.9586130040421
+      }, {
+        "activityType": "WALKING",
+        "probability": 8.698761367217706
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231564693,
+          "lngE7": -457931594
+        }, {
+          "latE7": -231815834,
+          "lngE7": -458497734
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231815909,
+          "longitudeE7": -458497706
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-06T18:53:07.730Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231815447,
+        "longitudeE7": -458496616
+      },
+      "endLocation": {
+        "latitudeE7": -231983638,
+        "longitudeE7": -458891838
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T18:53:07.730Z",
+        "endTimestamp": "2017-11-06T19:54:02.209Z"
+      },
+      "distance": 4461,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 89.84500671949972
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.765647324864289
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.093733006248599
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231815319,
+          "lngE7": -458496704
+        }, {
+          "latE7": -231983757,
+          "lngE7": -458891792
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5704.00226427147,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Avenida Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - São Paulo, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 78.56504
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T19:54:02.209Z",
+        "endTimestamp": "2017-11-06T21:38:32.978Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -231984157,
+      "centerLngE7": -458892511,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231990355,
+        "longitudeE7": -458898324,
+        "placeId": "ChIJQ_svrW5KzJQRfvGXohLi1NM",
+        "address": "R. Helena David Neme, 183 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 4.318274
+      }, {
+        "latitudeE7": -231991192,
+        "longitudeE7": -458890046,
+        "placeId": "ChIJ34LQRWlKzJQRq1DB1bT8GH4",
+        "address": "R. Prof. Frederico Eyer - Jardim Sao Dimas, São José dos Campos - SP, 12245-330, Brasil",
+        "name": "PONTO DE TÁXI SÃO DIMAS",
+        "locationConfidence": 2.1291707
+      }, {
+        "latitudeE7": -232002361,
+        "longitudeE7": -458881699,
+        "placeId": "ChIJmc4nHGlKzJQRzmGV7mATyYQ",
+        "address": "R. Maria Francisca Fróes, 171 - Jardim Sao Dimas, São José dos Campos - SP, 12245-410, Brasil",
+        "name": "Academy Capoeira Beetle Mangangá",
+        "locationConfidence": 1.5406431
+      }, {
+        "latitudeE7": -231975919,
+        "longitudeE7": -458884334,
+        "placeId": "ChIJL6Z33mtKzJQR8IhczoHV7V0",
+        "address": "Praça Monsenhor Ascanio Brandão, 34 - Jardim Sao Dimas, São José dos Campos - SP, 12245-440, Brasil",
+        "name": "Caldinho e Pizzaria São Dimas",
+        "locationConfidence": 0.35929346
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJi4rQVmlKzJQRZHgc-sixPnQ",
+        "name": "Antônio Carlos da Silva Restaurante",
+        "locationConfidence": 0.28447297
+      }, {
+        "latitudeE7": -231981661,
+        "longitudeE7": -458894434,
+        "placeId": "ChIJBVjJ8GtKzJQRi3EoZTflDKs",
+        "address": "Av. Engenheiro Francisco José Longo, 582 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "L I Capucci",
+        "locationConfidence": 0.2791394
+      }, {
+        "latitudeE7": -231988043,
+        "longitudeE7": -458887569,
+        "placeId": "ChIJ_UdGQ2lKzJQR5wys6V3FCec",
+        "name": "Milla Chic",
+        "locationConfidence": 0.26682812
+      }, {
+        "latitudeE7": -231989896,
+        "longitudeE7": -458890842,
+        "placeId": "ChIJ0egmUWlKzJQRAIlpHe3Rgkc",
+        "address": "Av. Engenheiro Francisco José Longo, 681 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Ana Letícia Carneiro Silva Restaurante",
+        "locationConfidence": 0.26554406
+      }, {
+        "latitudeE7": -231989111,
+        "longitudeE7": -458874253,
+        "placeId": "ChIJXfLPCmlKzJQR8A7QgTlxPFU",
+        "address": "R. Ilza Irma Moeller Coppio, 95 - Jardim Sao Dimas, São José dos Campos - SP, 12245-430, Brasil",
+        "name": "Boteco do Jeka",
+        "locationConfidence": 0.24909095
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "endLocation": {
+        "latitudeE7": -232022217,
+        "longitudeE7": -458821924
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T21:38:32.978Z",
+        "endTimestamp": "2017-11-06T22:15:30.970Z"
+      },
+      "distance": 1456,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 93.65198734618872
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.0936730248822073
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.5634734507191523
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231988182,
+          "lngE7": -458892135
+        }, {
+          "latE7": -231992340,
+          "lngE7": -458911170
+        }, {
+          "latE7": -232011356,
+          "lngE7": -458806266
+        }, {
+          "latE7": -232023143,
+          "lngE7": -458822898
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1147.069217039818,
+        "travelMode": "WALK",
+        "confidence": 0.9956463876639173
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231991062,
+          "lngE7": -458910637,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-06T21:40:42.686Z"
+        }, {
+          "latE7": -232009945,
+          "lngE7": -458807869,
+          "accuracyMeters": 13,
+          "timestamp": "2017-11-06T22:11:25.670Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232022217,
+        "longitudeE7": -458821924
+      },
+      "endLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T22:15:30.970Z",
+        "endTimestamp": "2017-11-06T23:13:58.670Z"
+      },
+      "distance": 950,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 58.80237203995726
+      }, {
+        "activityType": "WALKING",
+        "probability": 27.843471918403655
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 10.72600215266664
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232023143,
+          "lngE7": -458822898
+        }, {
+          "latE7": -231988182,
+          "lngE7": -458892135
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231988368,
+          "longitudeE7": -458893807
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-06T23:13:58.670Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "endLocation": {
+        "latitudeE7": -231984193,
+        "longitudeE7": -458897310
+      },
+      "duration": {
+        "startTimestamp": "2017-11-06T23:13:58.670Z",
+        "endTimestamp": "2017-11-08T23:03:56.662Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232054772,
+          "lngE7": -458991122,
+          "accuracyMeters": 4,
+          "timestamp": "2017-11-07T01:46:46.919Z"
+        }, {
+          "latE7": -231982008,
+          "lngE7": -458951007,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-07T21:42:11.816Z"
+        }, {
+          "latE7": -231972681,
+          "lngE7": -458964635,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-07T21:43:30.816Z"
+        }, {
+          "latE7": -231968294,
+          "lngE7": -458978254,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-07T21:50:28.816Z"
+        }, {
+          "latE7": -231982805,
+          "lngE7": -458983326,
+          "accuracyMeters": 28,
+          "timestamp": "2017-11-07T22:06:26.283Z"
+        }, {
+          "latE7": -231974191,
+          "lngE7": -458979465,
+          "accuracyMeters": 31,
+          "timestamp": "2017-11-07T22:07:29.283Z"
+        }, {
+          "latE7": -231970740,
+          "lngE7": -458973816,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-07T22:07:45.283Z"
+        }, {
+          "latE7": -231976909,
+          "lngE7": -458955069,
+          "accuracyMeters": 18,
+          "timestamp": "2017-11-07T22:09:02.283Z"
+        }, {
+          "latE7": -231993722,
+          "lngE7": -458954116,
+          "accuracyMeters": 18,
+          "timestamp": "2017-11-07T22:17:36.283Z"
+        }, {
+          "latE7": -231978216,
+          "lngE7": -458947555,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-07T22:23:16.283Z"
+        }, {
+          "latE7": -231979945,
+          "lngE7": -458942008,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-07T22:23:46.283Z"
+        }, {
+          "latE7": -231989733,
+          "lngE7": -458911594,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-07T22:25:37.283Z"
+        }, {
+          "latE7": -231994210,
+          "lngE7": -458901826,
+          "accuracyMeters": 18,
+          "timestamp": "2017-11-07T22:26:21.157Z"
+        }, {
+          "latE7": -231993232,
+          "lngE7": -458893968,
+          "accuracyMeters": 6,
+          "timestamp": "2017-11-07T22:27:07.157Z"
+        }, {
+          "latE7": -231982922,
+          "lngE7": -458904125,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-07T23:37:39.024Z"
+        }, {
+          "latE7": -231985436,
+          "lngE7": -458899314,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-08T13:23:15.251Z"
+        }, {
+          "latE7": -231969844,
+          "lngE7": -458893829,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-08T13:39:04.023Z"
+        }, {
+          "latE7": -231983863,
+          "lngE7": -458893598,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-08T19:07:23.385Z"
+        }, {
+          "latE7": -232056906,
+          "lngE7": -458825878,
+          "accuracyMeters": 15,
+          "timestamp": "2017-11-08T23:02:36.313Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 6672.611275211453
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984193,
+        "longitudeE7": -458897310
+      },
+      "endLocation": {
+        "latitudeE7": -231985254,
+        "longitudeE7": -458895778
+      },
+      "duration": {
+        "startTimestamp": "2017-11-08T23:03:56.662Z",
+        "endTimestamp": "2017-11-08T23:11:34.615Z"
+      },
+      "distance": 130,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 46.473108392766434
+      }, {
+        "activityType": "CYCLING",
+        "probability": 26.269961754568243
+      }, {
+        "activityType": "WALKING",
+        "probability": 23.48170473759129
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984214,
+          "lngE7": -458900032
+        }, {
+          "latE7": -231983909,
+          "lngE7": -458892707
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231983884,
+        "longitudeE7": -458891220
+      },
+      "endLocation": {
+        "latitudeE7": -231984429,
+        "longitudeE7": -458892816
+      },
+      "duration": {
+        "startTimestamp": "2017-11-08T23:58:01.107Z",
+        "endTimestamp": "2017-11-09T00:02:29.972Z"
+      },
+      "distance": 17,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 63.0653395752406
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.85608190762866
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.067782206248945
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232097530,
+          "lngE7": -458573036
+        }, {
+          "latE7": -231984405,
+          "lngE7": -458892631
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5022.538234162309,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984429,
+        "longitudeE7": -458892816
+      },
+      "endLocation": {
+        "latitudeE7": -231982795,
+        "longitudeE7": -458891483
+      },
+      "duration": {
+        "startTimestamp": "2017-11-09T00:02:29.972Z",
+        "endTimestamp": "2017-11-11T15:29:47.024Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231990113,
+          "lngE7": -458888922,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-09T20:44:23.901Z"
+        }, {
+          "latE7": -231983805,
+          "lngE7": -458889384,
+          "accuracyMeters": 29,
+          "timestamp": "2017-11-09T20:52:54.872Z"
+        }, {
+          "latE7": -231986514,
+          "lngE7": -458894280,
+          "accuracyMeters": 26,
+          "timestamp": "2017-11-10T15:42:28.366Z"
+        }, {
+          "latE7": -231985423,
+          "lngE7": -458900812,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-10T22:19:56.732Z"
+        }, {
+          "latE7": -231982323,
+          "lngE7": -458897026,
+          "accuracyMeters": 27,
+          "timestamp": "2017-11-11T01:38:00.213Z"
+        }, {
+          "latE7": -231993276,
+          "lngE7": -458906721,
+          "accuracyMeters": 25,
+          "timestamp": "2017-11-11T13:05:35.191Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 674.5972141238256
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231982795,
+        "longitudeE7": -458891483
+      },
+      "endLocation": {
+        "latitudeE7": -231966292,
+        "longitudeE7": -458897427
+      },
+      "duration": {
+        "startTimestamp": "2017-11-11T15:29:47.024Z",
+        "endTimestamp": "2017-11-11T15:33:26.446Z"
+      },
+      "distance": 199,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.29928034251813
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.162710306706546
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.287614596322876
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231983680,
+          "lngE7": -458891334
+        }, {
+          "latE7": -231966075,
+          "lngE7": -458895721
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 214.82639922864396,
+        "travelMode": "WALK",
+        "confidence": 0.9999478674199601
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231966292,
+        "longitudeE7": -458897427
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-11T15:33:26.446Z",
+        "endTimestamp": "2017-11-13T09:42:08.965Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231985979,
+          "lngE7": -458896254,
+          "accuracyMeters": 28,
+          "timestamp": "2017-11-11T20:39:53.336Z"
+        }, {
+          "latE7": -231987751,
+          "lngE7": -458903336,
+          "accuracyMeters": 23,
+          "timestamp": "2017-11-12T17:52:04.249Z"
+        }, {
+          "latE7": -231983030,
+          "lngE7": -458900073,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-12T19:22:22.273Z"
+        }, {
+          "latE7": -231984120,
+          "lngE7": -458891351,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-13T02:28:41.990Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 478.0878405835193
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -232039201,
+        "longitudeE7": -458928212
+      },
+      "duration": {
+        "startTimestamp": "2017-11-13T09:42:08.965Z",
+        "endTimestamp": "2017-11-13T10:09:08.918Z"
+      },
+      "distance": 747,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 81.60982638775619
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 13.479936580819146
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.387609919931474
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }, {
+          "latE7": -232040691,
+          "lngE7": -458928413
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 892.2600265710356,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232039201,
+        "longitudeE7": -458928212
+      },
+      "endLocation": {
+        "latitudeE7": -231984448,
+        "longitudeE7": -458892022
+      },
+      "duration": {
+        "startTimestamp": "2017-11-13T10:09:08.918Z",
+        "endTimestamp": "2017-11-13T20:11:29.704Z"
+      },
+      "distance": 23015,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 55.44090503162257
+      }, {
+        "activityType": "WALKING",
+        "probability": 32.54445134845608
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 4.497935078380141
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232040691,
+          "lngE7": -458928413
+        }, {
+          "latE7": -231871852,
+          "lngE7": -458862304
+        }, {
+          "latE7": -231565189,
+          "lngE7": -457932624
+        }, {
+          "latE7": -231990375,
+          "lngE7": -458899955
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231872105,
+          "lngE7": -458864543,
+          "accuracyMeters": 87,
+          "timestamp": "2017-11-13T15:20:01.996Z"
+        }, {
+          "latE7": -231567760,
+          "lngE7": -457930498,
+          "accuracyMeters": 4,
+          "timestamp": "2017-11-13T17:04:06.873Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231984448,
+          "longitudeE7": -458892022,
+          "accuracyMetres": 19
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-13T20:11:32.234Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231990355,
+        "longitudeE7": -458898324,
+        "placeId": "ChIJQ_svrW5KzJQRfvGXohLi1NM",
+        "address": "Rua Helena David Neme, 183 - Jardim Sao Dimas, São José dos Campos - Sao Paulo, 12245-310, Brasil",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 41.893
+      },
+      "duration": {
+        "startTimestamp": "2017-11-13T20:11:29.704Z",
+        "endTimestamp": "2017-11-14T15:18:04.716Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -231984741,
+      "centerLngE7": -458895312,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306,
+        "placeId": "ChIJt6XeVWlKzJQROPDP-Nob6Ek",
+        "address": "Av. Engenheiro Francisco José Longo, 622 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Edifício Ipanema",
+        "locationConfidence": 27.97337
+      }, {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Av. Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "locationConfidence": 4.463292
+      }, {
+        "latitudeE7": -231978060,
+        "longitudeE7": -458881520,
+        "placeId": "ChIJyzg-3mtKzJQRRk8aCS-qL1Y",
+        "address": "Praça Monsenhor Ascânio Brandão, 14 - Pça São Dimas - Jardim Sao Dimas, São José dos Campos - SP, 12245-440, Brasil",
+        "name": "Japansei",
+        "locationConfidence": 2.7069428
+      }, {
+        "latitudeE7": -231990355,
+        "longitudeE7": -458898324,
+        "placeId": "ChIJy7S5rW5KzJQRqZ6_sQd6LUw",
+        "address": "R. Helena David Neme, 183 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Multicontas Consultoria e Sistemas",
+        "locationConfidence": 1.6968777
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJhaVeRWlKzJQRCvGaiEIEF7I",
+        "address": "Av. Engenheiro Francisco José Longo, 673 - Jardim Sao Dimas, São José dos Campos - SP, 12245-001, Brasil",
+        "name": "Sirva-se Bem II",
+        "locationConfidence": 0.6955519
+      }, {
+        "latitudeE7": -231989970,
+        "longitudeE7": -458886816,
+        "placeId": "ChIJp_MtQmlKzJQR-1Cc37r3JiQ",
+        "address": "R. Tufi Simão Filho, 54 - Jardim Sao Dimas, São José dos Campos - SP, 12245-290, Brasil",
+        "name": "Toca Da Traira",
+        "locationConfidence": 0.58560926
+      }, {
+        "latitudeE7": -231986696,
+        "longitudeE7": -458908313,
+        "placeId": "ChIJK_YEH2xKzJQRBZ-KVJ4bXe8",
+        "address": "R. Helena David Neme, 113 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Consultorio Dr Fabricio Teles Gallo",
+        "locationConfidence": 0.52805585
+      }, {
+        "latitudeE7": -231988048,
+        "longitudeE7": -458901956,
+        "placeId": "ChIJPaR8dGxKzJQRv8dxu86QZQc",
+        "name": "Portal of Knowledge Books",
+        "locationConfidence": 0.52497333
+      }, {
+        "latitudeE7": -231982422,
+        "longitudeE7": -458899264,
+        "placeId": "ChIJd25NAWxKzJQRZcmdlPwcHl0",
+        "address": "R. Helena David Neme, 103 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Pet Shop São Dimas",
+        "locationConfidence": 0.45319685
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 35,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231990355,
+        "longitudeE7": -458898324
+      },
+      "endLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "duration": {
+        "startTimestamp": "2017-11-14T15:18:04.716Z",
+        "endTimestamp": "2017-11-14T16:58:23.359Z"
+      },
+      "distance": 780,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.50890763585727
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.5105701931852815
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.340753464451246
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231990375,
+          "lngE7": -458899955
+        }, {
+          "latE7": -232007369,
+          "lngE7": -458924522
+        }, {
+          "latE7": -231988182,
+          "lngE7": -458892135
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 186.65009789237735,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232009468,
+          "lngE7": -458924065,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-14T16:52:09.883Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "endLocation": {
+        "latitudeE7": -231985684,
+        "longitudeE7": -458896640
+      },
+      "duration": {
+        "startTimestamp": "2017-11-14T16:58:23.359Z",
+        "endTimestamp": "2017-11-15T14:28:43.604Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231993325,
+          "lngE7": -458894935,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-14T16:59:26.217Z"
+        }, {
+          "latE7": -231988418,
+          "lngE7": -458892146,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-14T17:00:28.510Z"
+        }, {
+          "latE7": -231949512,
+          "lngE7": -458908364,
+          "accuracyMeters": 7,
+          "timestamp": "2017-11-14T18:41:19.352Z"
+        }, {
+          "latE7": -231962178,
+          "lngE7": -458899403,
+          "accuracyMeters": 4,
+          "timestamp": "2017-11-14T18:46:03.734Z"
+        }, {
+          "latE7": -231983873,
+          "lngE7": -458891210,
+          "accuracyMeters": 18,
+          "timestamp": "2017-11-15T01:45:58.489Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1063.5517775081332
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231985684,
+        "longitudeE7": -458896640
+      },
+      "endLocation": {
+        "latitudeE7": -231985317,
+        "longitudeE7": -458894084
+      },
+      "duration": {
+        "startTimestamp": "2017-11-15T14:28:43.604Z",
+        "endTimestamp": "2017-11-15T14:32:02.017Z"
+      },
+      "distance": 195,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 63.80541796553953
+      }, {
+        "activityType": "WALKING",
+        "probability": 32.10712347694496
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.7326350037038085
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231985702,
+          "lngE7": -458899993
+        }, {
+          "latE7": -231985149,
+          "lngE7": -458892555
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984132,
+        "longitudeE7": -458896646
+      },
+      "endLocation": {
+        "latitudeE7": -231984596,
+        "longitudeE7": -458897427
+      },
+      "duration": {
+        "startTimestamp": "2017-11-15T15:12:50.452Z",
+        "endTimestamp": "2017-11-15T15:15:56.626Z"
+      },
+      "distance": 1254,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 85.06395665638217
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.002852130934341
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.4875162190699054
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984157,
+          "lngE7": -458900032
+        }, {
+          "latE7": -231984615,
+          "lngE7": -458900032
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5.086903997987113,
+        "travelMode": "WALK",
+        "confidence": 0.6596500822669116
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231982794,
+        "longitudeE7": -458905101
+      },
+      "endLocation": {
+        "latitudeE7": -231983824,
+        "longitudeE7": -458891829
+      },
+      "duration": {
+        "startTimestamp": "2017-11-15T15:37:22.239Z",
+        "endTimestamp": "2017-11-15T15:43:27.670Z"
+      },
+      "distance": 136,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 59.46343140464131
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.61955473658124
+      }, {
+        "activityType": "CYCLING",
+        "probability": 16.042476194843637
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231982784,
+          "lngE7": -458907356
+        }, {
+          "latE7": -231983776,
+          "lngE7": -458891830
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231983824,
+        "longitudeE7": -458891829
+      },
+      "endLocation": {
+        "latitudeE7": -231983753,
+        "longitudeE7": -458893452
+      },
+      "duration": {
+        "startTimestamp": "2017-11-15T15:43:27.670Z",
+        "endTimestamp": "2017-11-16T13:07:35.402Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231983627,
+          "lngE7": -458899499,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-15T16:16:05.705Z"
+        }, {
+          "latE7": -231986199,
+          "lngE7": -458895172,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-15T18:23:55.480Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 163.47204098267275
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231983753,
+        "longitudeE7": -458893452
+      },
+      "endLocation": {
+        "latitudeE7": -231573020,
+        "longitudeE7": -457936470
+      },
+      "duration": {
+        "startTimestamp": "2017-11-16T13:07:35.402Z",
+        "endTimestamp": "2017-11-16T13:25:22.402Z"
+      },
+      "distance": 11780,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 95.86630974510413
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.7919557984528847
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.0737691228384685
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231983661,
+          "lngE7": -458892745
+        }, {
+          "latE7": -231573619,
+          "lngE7": -457936897
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231573020,
+          "longitudeE7": -457936470
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-16T13:25:22.402Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893,
+        "placeId": "ChIJac0kXTRMzJQRoLj-d1Eyrzs",
+        "address": "Estrada Doutor Altino Bondensan, 500 - Eugênio de Melo, São José dos Campos - São Paulo, 12247-016, Brasil",
+        "name": "Technology Park São José dos Campos",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 99.89856,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-16T13:25:22.402Z",
+        "endTimestamp": "2017-11-16T17:56:37.437Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -231571860,
+      "centerLngE7": -457932280,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232299113,
+        "longitudeE7": -458849587,
+        "placeId": "ChIJcd8JM6rMzZQRHZYDmhgvtz4",
+        "address": "Jacareí - SP, Brasil",
+        "locationConfidence": 0.025669519,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231618676,
+        "longitudeE7": -457951994,
+        "placeId": "ChIJJ9MAjUlMzJQRZQ6dslvTgAc",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.022407493,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231624373,
+        "longitudeE7": -457947314,
+        "placeId": "ChIJTwf7KUpMzJQRAg3_fnFGVyg",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.019943254,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231582235,
+        "longitudeE7": -457882265,
+        "placeId": "ChIJ0cQzfbVNzJQRwP1rdYKWC-c",
+        "address": "Jardim Coqueiro, São José dos Campos - SP, 12247-004, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, 501",
+        "locationConfidence": 0.01935685,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231579408,
+        "longitudeE7": -457967704,
+        "placeId": "ChIJK3YW5DZMzJQRIWQ9sZFm_NE",
+        "address": "Rod. Pres. Dutra, 34 - Jardim Satelite, São José dos Campos - SP, 12230-002, Brasil",
+        "locationConfidence": 0.011445951,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231621524,
+        "longitudeE7": -457949654,
+        "placeId": "ChIJ1eTliElMzJQR2FCd5OZIViM",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.002616829,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231573020,
+          "lngE7": -457936470,
+          "accuracyMeters": 96,
+          "timestamp": "2017-11-16T13:25:22.402Z"
+        }, {
+          "latE7": -231567979,
+          "lngE7": -457930598,
+          "accuracyMeters": 7,
+          "timestamp": "2017-11-16T17:54:30.437Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 164.26757234924622
+      },
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893
+      },
+      "endLocation": {
+        "latitudeE7": -231950015,
+        "longitudeE7": -458809855
+      },
+      "duration": {
+        "startTimestamp": "2017-11-16T17:56:37.437Z",
+        "endTimestamp": "2017-11-16T18:44:48.721Z"
+      },
+      "distance": 10260,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 71.6229176627019
+      }, {
+        "activityType": "WALKING",
+        "probability": 14.080425500182864
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 7.111776304813298
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231564693,
+          "lngE7": -457931594
+        }, {
+          "latE7": -231950283,
+          "lngE7": -458809432
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231950015,
+          "longitudeE7": -458809855
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-16T18:44:48.721Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231946130,
+        "longitudeE7": -458800528
+      },
+      "endLocation": {
+        "latitudeE7": -231984250,
+        "longitudeE7": -458891843
+      },
+      "duration": {
+        "startTimestamp": "2017-11-16T18:44:48.721Z",
+        "endTimestamp": "2017-11-16T18:56:13.846Z"
+      },
+      "distance": 1020,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 44.59244107073781
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 33.34966366905028
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.869515027554645
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231943607,
+          "lngE7": -458804321
+        }, {
+          "latE7": -231983776,
+          "lngE7": -458891906
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1512.1512062237114,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984250,
+        "longitudeE7": -458891843
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-16T18:56:13.846Z",
+        "endTimestamp": "2017-11-17T09:56:21.286Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231979914,
+          "lngE7": -458893403,
+          "accuracyMeters": 6,
+          "timestamp": "2017-11-16T21:48:24.716Z"
+        }, {
+          "latE7": -231985098,
+          "lngE7": -458895658,
+          "accuracyMeters": 7,
+          "timestamp": "2017-11-16T21:50:45.716Z"
+        }, {
+          "latE7": -231984114,
+          "lngE7": -458900491,
+          "accuracyMeters": 25,
+          "timestamp": "2017-11-17T01:23:27.449Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 227.39775710434688
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -232005162,
+        "longitudeE7": -458924265
+      },
+      "duration": {
+        "startTimestamp": "2017-11-17T09:56:21.286Z",
+        "endTimestamp": "2017-11-17T10:02:35.700Z"
+      },
+      "distance": 419,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 89.42442053032615
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 5.1247494112748875
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.934022003886051
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }, {
+          "latE7": -231998004,
+          "lngE7": -458909378
+        }, {
+          "latE7": -232005329,
+          "lngE7": -458923721
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 560.8423840030243,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231997986,
+          "lngE7": -458908806,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-17T10:00:20.287Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231993772,
+        "longitudeE7": -458919887
+      },
+      "endLocation": {
+        "latitudeE7": -231814979,
+        "longitudeE7": -458545015
+      },
+      "duration": {
+        "startTimestamp": "2017-11-17T10:02:35.700Z",
+        "endTimestamp": "2017-11-17T10:25:55.378Z"
+      },
+      "distance": 7541,
+      "activityType": "IN_BUS",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 65.41598445684448
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.785268951985113
+      }, {
+        "activityType": "WALKING",
+        "probability": 10.35005757130879
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -231993772,
+          "longitudeE7": -458919887,
+          "placeId": "ChIJScoVgG5KzJQRNkdkGQM4C_I",
+          "address": "Vila Jaci, São José dos Campos - SP, 12245-011, Brasil",
+          "name": "Av. Dr. Adhemar de Barros, 800"
+        }, {
+          "latitudeE7": -231814979,
+          "longitudeE7": -458545015,
+          "placeId": "ChIJNUZ-eLhLzJQRNV6d34rKyK0",
+          "address": "Vila Tatetuba, São José dos Campos - SP, 12230-002, Brasil",
+          "name": "Av. Pres. Juscelino Kubitschek, s/n"
+        }],
+        "name": "211",
+        "hexRgbColor": "EF6C00",
+        "linePlaceId": "ChIJw3x_isdLzJQRAlnW9EnR_Dw",
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232034827,
+          "lngE7": -458937014,
+          "accuracyMeters": 77,
+          "timestamp": "2017-11-17T10:06:08.232Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5182.405538244501
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231802388,
+        "longitudeE7": -458539579
+      },
+      "endLocation": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893
+      },
+      "duration": {
+        "startTimestamp": "2017-11-17T10:25:55.378Z",
+        "endTimestamp": "2017-11-17T14:08:29.400Z"
+      },
+      "distance": 7009,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 49.50493734507631
+      }, {
+        "activityType": "WALKING",
+        "probability": 35.79323476346612
+      }, {
+        "activityType": "CYCLING",
+        "probability": 5.806838887425147
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231798954,
+          "lngE7": -458539009
+        }, {
+          "latE7": -231564693,
+          "lngE7": -457931594
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231572982,
+          "longitudeE7": -457926893
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-17T14:08:29.400Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893,
+        "placeId": "ChIJac0kXTRMzJQRoLj-d1Eyrzs",
+        "address": "Estrada Doutor Altino Bondensan, 500 - Eugênio de Melo, São José dos Campos - São Paulo, 12247-016, Brasil",
+        "name": "Technology Park São José dos Campos",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 99.92995,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-17T14:08:29.400Z",
+        "endTimestamp": "2017-11-17T17:08:35.667Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -231572265,
+      "centerLngE7": -457925953,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232299113,
+        "longitudeE7": -458849587,
+        "placeId": "ChIJcd8JM6rMzZQRHZYDmhgvtz4",
+        "address": "Jacareí - SP, Brasil",
+        "locationConfidence": 0.03979435,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231618676,
+        "longitudeE7": -457951994,
+        "placeId": "ChIJJ9MAjUlMzJQRZQ6dslvTgAc",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.008919851,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231624373,
+        "longitudeE7": -457947314,
+        "placeId": "ChIJTwf7KUpMzJQRAg3_fnFGVyg",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.007801876,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231579408,
+        "longitudeE7": -457967704,
+        "placeId": "ChIJK3YW5DZMzJQRIWQ9sZFm_NE",
+        "address": "Rod. Pres. Dutra, 34 - Jardim Satelite, São José dos Campos - SP, 12230-002, Brasil",
+        "locationConfidence": 0.005620767,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231582235,
+        "longitudeE7": -457882265,
+        "placeId": "ChIJ0cQzfbVNzJQRwP1rdYKWC-c",
+        "address": "Jardim Coqueiro, São José dos Campos - SP, 12247-004, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, 501",
+        "locationConfidence": 0.0055000056,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -224920011,
+        "longitudeE7": -435372294,
+        "placeId": "ChIJa9fBX92bngARfX03-LhFZio",
+        "address": "Brasil",
+        "name": "Paraíba do Sul",
+        "locationConfidence": 0.0021214008
+      }, {
+        "latitudeE7": -231621524,
+        "longitudeE7": -457949654,
+        "placeId": "ChIJ1eTliElMzJQR2FCd5OZIViM",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 2.9323364E-4,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231572177,
+          "lngE7": -457921698,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-17T14:51:57.588Z"
+        }, {
+          "latE7": -231573170,
+          "lngE7": -457932510,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-17T17:05:24.667Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 111.08766276217571
+      },
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-17T17:08:35.667Z",
+        "endTimestamp": "2017-11-17T19:20:38.456Z"
+      },
+      "distance": 11527,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 61.10281192297341
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.258775234020465
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 7.280002480004083
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231564693,
+          "lngE7": -457931594
+        }, {
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231984980,
+          "longitudeE7": -458894306
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-17T19:20:38.456Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-17T19:20:38.456Z",
+        "endTimestamp": "2017-11-19T15:29:42.795Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231985905,
+          "lngE7": -458894709,
+          "accuracyMeters": 23,
+          "timestamp": "2017-11-17T19:37:46.460Z"
+        }, {
+          "latE7": -231989147,
+          "lngE7": -458899307,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-18T15:40:42.048Z"
+        }, {
+          "latE7": -231985188,
+          "lngE7": -458902517,
+          "accuracyMeters": 33,
+          "timestamp": "2017-11-18T16:24:24.573Z"
+        }, {
+          "latE7": -231990012,
+          "lngE7": -458890958,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-18T18:43:16.956Z"
+        }, {
+          "latE7": -231993283,
+          "lngE7": -458895312,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-18T18:44:02.956Z"
+        }, {
+          "latE7": -231989972,
+          "lngE7": -458911359,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-18T18:46:38.956Z"
+        }, {
+          "latE7": -231987246,
+          "lngE7": -458917917,
+          "accuracyMeters": 6,
+          "timestamp": "2017-11-18T18:47:39.956Z"
+        }, {
+          "latE7": -231995763,
+          "lngE7": -458835756,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-18T19:17:31.693Z"
+        }, {
+          "latE7": -231954967,
+          "lngE7": -458896659,
+          "accuracyMeters": 7,
+          "timestamp": "2017-11-19T00:41:02.830Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2503.934751559282
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-19T15:29:42.795Z",
+        "endTimestamp": "2017-11-19T18:16:49.163Z"
+      },
+      "distance": 1600,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.20053227973698
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.597286677329769
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.08337103489353756
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232055788,
+          "lngE7": -458877330,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-19T16:17:16.994Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1612.478741370452
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -231984632,
+        "longitudeE7": -458894033
+      },
+      "duration": {
+        "startTimestamp": "2017-11-19T18:16:49.163Z",
+        "endTimestamp": "2017-11-21T10:07:58.627Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231984060,
+          "lngE7": -458900028,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-19T19:01:33.771Z"
+        }, {
+          "latE7": -231992938,
+          "lngE7": -458894419,
+          "accuracyMeters": 6,
+          "timestamp": "2017-11-19T23:40:27.868Z"
+        }, {
+          "latE7": -231988569,
+          "lngE7": -458911487,
+          "accuracyMeters": 13,
+          "timestamp": "2017-11-19T23:41:46.868Z"
+        }, {
+          "latE7": -231991984,
+          "lngE7": -458916506,
+          "accuracyMeters": 10,
+          "timestamp": "2017-11-19T23:42:17.868Z"
+        }, {
+          "latE7": -232005654,
+          "lngE7": -458921297,
+          "accuracyMeters": 10,
+          "timestamp": "2017-11-19T23:43:19.868Z"
+        }, {
+          "latE7": -232009004,
+          "lngE7": -458905519,
+          "accuracyMeters": 6,
+          "timestamp": "2017-11-19T23:44:36.868Z"
+        }, {
+          "latE7": -232001388,
+          "lngE7": -458900164,
+          "accuracyMeters": 9,
+          "timestamp": "2017-11-19T23:45:38.868Z"
+        }, {
+          "latE7": -231992848,
+          "lngE7": -458907626,
+          "accuracyMeters": 9,
+          "timestamp": "2017-11-19T23:46:24.868Z"
+        }, {
+          "latE7": -231987414,
+          "lngE7": -458918639,
+          "accuracyMeters": 9,
+          "timestamp": "2017-11-19T23:47:11.868Z"
+        }, {
+          "latE7": -231994199,
+          "lngE7": -458953954,
+          "accuracyMeters": 18,
+          "timestamp": "2017-11-19T23:55:07.868Z"
+        }, {
+          "latE7": -231980371,
+          "lngE7": -458949191,
+          "accuracyMeters": 16,
+          "timestamp": "2017-11-20T00:03:08.273Z"
+        }, {
+          "latE7": -231972178,
+          "lngE7": -458981503,
+          "accuracyMeters": 16,
+          "timestamp": "2017-11-20T00:19:41.273Z"
+        }, {
+          "latE7": -231983260,
+          "lngE7": -458985381,
+          "accuracyMeters": 18,
+          "timestamp": "2017-11-20T00:27:40.273Z"
+        }, {
+          "latE7": -231973125,
+          "lngE7": -458964223,
+          "accuracyMeters": 12,
+          "timestamp": "2017-11-20T00:32:19.273Z"
+        }, {
+          "latE7": -231990894,
+          "lngE7": -458889442,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-20T15:28:11.378Z"
+        }, {
+          "latE7": -231985766,
+          "lngE7": -458894293,
+          "accuracyMeters": 32,
+          "timestamp": "2017-11-21T02:46:50.094Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 3217.764518304726
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984632,
+        "longitudeE7": -458894033
+      },
+      "endLocation": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527
+      },
+      "duration": {
+        "startTimestamp": "2017-11-21T10:07:58.627Z",
+        "endTimestamp": "2017-11-21T10:55:45.469Z"
+      },
+      "distance": 3565,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 70.74109124062699
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 13.021426968924764
+      }, {
+        "activityType": "WALKING",
+        "probability": 8.356845234494639
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231983909,
+          "lngE7": -458892707
+        }, {
+          "latE7": -232110157,
+          "lngE7": -458571586
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -232110244,
+          "longitudeE7": -458578527
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-21T10:55:45.469Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527,
+        "placeId": "ChIJVV3GlRpLzJQR1cugLKyQkyQ",
+        "address": "Avenida dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - São Paulo, 12227-010, Brasil",
+        "name": "LIT - Integration and Testing Laboratory",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 78.17439,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-21T10:55:45.469Z",
+        "endTimestamp": "2017-11-21T17:27:09.159Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232114446,
+      "centerLngE7": -458574753,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232124351,
+        "longitudeE7": -458571990,
+        "placeId": "ChIJvTbPkRpLzJQR-nc5HxEKxT0",
+        "address": "Campus do CTA, São José dos Campos - SP, 12227, Brasil",
+        "name": "Av. Brg. Faria Lima, s/nº",
+        "locationConfidence": 14.566778,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232123444,
+        "longitudeE7": -458569880,
+        "placeId": "ChIJ99y-mhpLzJQR63YCc4rqnx0",
+        "name": "Espetinho do papai",
+        "locationConfidence": 1.7898716
+      }, {
+        "latitudeE7": -232115314,
+        "longitudeE7": -458569269,
+        "placeId": "ChIJzV2WoxpLzJQRQg7M8cMXdGo",
+        "address": "Av. dos Astronautas, 1007 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.60947967
+      }, {
+        "latitudeE7": -232120714,
+        "longitudeE7": -458569228,
+        "placeId": "ChIJG_IWzBdLzJQRpOW23bI3b0k",
+        "address": "Av. Brg. Faria Lima, 1039 - 12)996749491 - Parque Martin Cerere, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Auto Pecas o Compadre",
+        "locationConfidence": 0.5820288
+      }, {
+        "latitudeE7": -232117927,
+        "longitudeE7": -458569675,
+        "placeId": "ChIJPwZ4ohpLzJQRig_OUDKqDv0",
+        "address": "Av. dos Astronautas, 1029 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.46425328
+      }, {
+        "latitudeE7": -232097546,
+        "longitudeE7": -458584801,
+        "placeId": "ChIJd1VHGQVLzJQRDqGXCJiwj50",
+        "address": "12227-010 - Av. dos Astronautas, 1919-2137 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "LANCHONETE-ADC-INPE",
+        "locationConfidence": 0.38391617
+      }, {
+        "latitudeE7": -232120647,
+        "longitudeE7": -458574083,
+        "placeId": "ChIJIbBYKARLzJQRhNMoyLUW4lk",
+        "name": "EMBRATEL",
+        "locationConfidence": 0.36328715,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232113852,
+        "longitudeE7": -458569124,
+        "placeId": "ChIJBVlIpBpLzJQRLJ-Tg7AGN-U",
+        "address": "Av. dos Astronautas, 989 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.30789813
+      }, {
+        "latitudeE7": -232130370,
+        "longitudeE7": -458569550,
+        "placeId": "ChIJP_koez1LzJQRsXzXSFM2jRo",
+        "address": "Av. Brg. Faria Lima, 1219 - Parque Martin Cerere, São José dos Campos - SP, 12227-000, Brasil",
+        "name": "Charlie Auto Center",
+        "locationConfidence": 0.15269983
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527
+      },
+      "endLocation": {
+        "latitudeE7": -232112707,
+        "longitudeE7": -458606049
+      },
+      "duration": {
+        "startTimestamp": "2017-11-21T17:27:09.159Z",
+        "endTimestamp": "2017-11-21T17:31:21.540Z"
+      },
+      "distance": 275,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 95.23482741980818
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.165041956543216
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.19126868886858622
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232113475,
+          "lngE7": -458582115
+        }, {
+          "latE7": -232114562,
+          "lngE7": -458607940
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 538.5292981344677,
+        "travelMode": "WALK",
+        "confidence": 0.9016447149018209
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232113442,
+        "longitudeE7": -458603990,
+        "placeId": "ChIJ_1bosARLzJQROEbiviZbNFQ",
+        "address": "INPE - Instituto Nacional de Pesquisas Espaciais - Av. dos Astronautas, 1758 - Jd. Granja, São José dos Campos - São Paulo, Brasil",
+        "name": "CCST",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 88.999916,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-21T17:31:21.540Z",
+        "endTimestamp": "2017-11-21T17:58:07.886Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232112453,
+      "centerLngE7": -458604607,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232110493,
+        "longitudeE7": -458618709,
+        "placeId": "ChIJ1yWIoARLzJQRDq4QSfoLGb0",
+        "address": "Praça Marechal Eduardo Gomes, 50 - Vila das Acacias, São José dos Campos - SP, 12228-904, Brasil",
+        "name": "Institute of Aeronautics and Space",
+        "locationConfidence": 7.3701606
+      }, {
+        "latitudeE7": -232094990,
+        "longitudeE7": -458620670,
+        "placeId": "ChIJUyMFmgNLzJQRG2lJWuqpqE8",
+        "address": "Av. dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Restaurante INPE",
+        "locationConfidence": 1.1375873
+      }, {
+        "latitudeE7": -232097546,
+        "longitudeE7": -458584801,
+        "placeId": "ChIJd1VHGQVLzJQRDqGXCJiwj50",
+        "address": "12227-010 - Av. dos Astronautas, 1919-2137 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "LANCHONETE-ADC-INPE",
+        "locationConfidence": 0.69792557
+      }, {
+        "latitudeE7": -232099455,
+        "longitudeE7": -458615148,
+        "placeId": "ChIJca3LeANLzJQR_fG30Es_2vg",
+        "address": "Av. dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "SEÇÃO DE RELAÇÕES INTERNACIONAIS (SCRIN)",
+        "locationConfidence": 0.3942917
+      }, {
+        "latitudeE7": -232116229,
+        "longitudeE7": -458585143,
+        "placeId": "ChIJiY_W0BpLzJQRFgUn0fkBOXk",
+        "address": "Av. dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "NÚCLEO DE ALMOXARIFADO E PATRIMÔNIO (NUAPA)",
+        "locationConfidence": 0.30723572
+      }, {
+        "latitudeE7": -232094940,
+        "longitudeE7": -458607671,
+        "placeId": "ChIJJxKjgQRLzJQRwom-DcSoGdw",
+        "address": "Av. dos Astronautas - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Biblioteca do INPE",
+        "locationConfidence": 0.26711228
+      }, {
+        "latitudeE7": -232124351,
+        "longitudeE7": -458571990,
+        "placeId": "ChIJvTbPkRpLzJQR-nc5HxEKxT0",
+        "address": "Campus do CTA, São José dos Campos - SP, 12227, Brasil",
+        "name": "Av. Brg. Faria Lima, s/nº",
+        "locationConfidence": 0.11877192
+      }, {
+        "latitudeE7": -232119432,
+        "longitudeE7": -458595480,
+        "placeId": "ChIJHw2vMRtLzJQRTvGUWbwLO6k",
+        "address": "Av. dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "SERVIÇO DE ENGENHARIA E MANUTENÇÃO (SEEMA)",
+        "locationConfidence": 0.1116393
+      }, {
+        "latitudeE7": -232099940,
+        "longitudeE7": -458598988,
+        "placeId": "ChIJ-YEP7QRLzJQRKgUwh6_y0cQ",
+        "address": "Av. dos Astronautas - Jardim da Granja, São José dos Campos - SP, 12227, Brasil",
+        "name": "OBT/ASA",
+        "locationConfidence": 0.110846184
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232113442,
+        "longitudeE7": -458603990
+      },
+      "endLocation": {
+        "latitudeE7": -232077954,
+        "longitudeE7": -458665576
+      },
+      "duration": {
+        "startTimestamp": "2017-11-21T17:58:07.886Z",
+        "endTimestamp": "2017-11-21T18:05:33.434Z"
+      },
+      "distance": 254,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 29.925070130955252
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 28.621942784607352
+      }, {
+        "activityType": "CYCLING",
+        "probability": 24.32267215403409
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232111606,
+          "lngE7": -458596153
+        }, {
+          "latE7": -232116069,
+          "lngE7": -458579330
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 247.52407976416842,
+        "travelMode": "WALK",
+        "confidence": 0.9931146225078673
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232111657,
+        "longitudeE7": -458585215
+      },
+      "endLocation": {
+        "latitudeE7": -231982837,
+        "longitudeE7": -458892299
+      },
+      "duration": {
+        "startTimestamp": "2017-11-21T18:05:33.434Z",
+        "endTimestamp": "2017-11-21T18:18:27.306Z"
+      },
+      "distance": 3449,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 64.36102365696543
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 26.512051361078843
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.094487859214542
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232111454,
+          "lngE7": -458571586
+        }, {
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231982837,
+          "longitudeE7": -458892299,
+          "accuracyMetres": 23
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-21T18:18:27.306Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306,
+        "placeId": "ChIJt6XeVWlKzJQROPDP-Nob6Ek",
+        "address": "Avenida Engenheiro Francisco José Longo, 622 - Jardim Sao Dimas, São José dos Campos - São Paulo, Brasil",
+        "name": "Edifício Ipanema",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 43.88624,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-21T18:18:27.306Z",
+        "endTimestamp": "2017-11-22T10:12:53.677Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -231984795,
+      "centerLngE7": -458894124,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231990355,
+        "longitudeE7": -458898324,
+        "placeId": "ChIJQ_svrW5KzJQRfvGXohLi1NM",
+        "address": "R. Helena David Neme, 183 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 29.868328
+      }, {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Av. Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "locationConfidence": 3.88371
+      }, {
+        "latitudeE7": -231982422,
+        "longitudeE7": -458899264,
+        "placeId": "ChIJd25NAWxKzJQRZcmdlPwcHl0",
+        "address": "R. Helena David Neme, 103 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Pet Shop São Dimas",
+        "locationConfidence": 0.69632703
+      }, {
+        "latitudeE7": -231986696,
+        "longitudeE7": -458908313,
+        "placeId": "ChIJK_YEH2xKzJQRBZ-KVJ4bXe8",
+        "address": "R. Helena David Neme, 113 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Consultorio Dr Fabricio Teles Gallo",
+        "locationConfidence": 0.5840944
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJhaVeRWlKzJQRCvGaiEIEF7I",
+        "address": "Av. Engenheiro Francisco José Longo, 673 - Jardim Sao Dimas, São José dos Campos - SP, 12245-001, Brasil",
+        "name": "Sirva-se Bem II",
+        "locationConfidence": 0.5779048
+      }, {
+        "latitudeE7": -231993499,
+        "longitudeE7": -458897287,
+        "placeId": "ChIJLcNxs25KzJQRM01jI7n7KVY",
+        "address": "Av. Dr. Ademar de Barros, 1050 - Vila Adyana, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "Estilus Ótica - São Dimas",
+        "locationConfidence": 0.54156166
+      }, {
+        "latitudeE7": -231988048,
+        "longitudeE7": -458901956,
+        "placeId": "ChIJPaR8dGxKzJQRv8dxu86QZQc",
+        "name": "Portal of Knowledge Books",
+        "locationConfidence": 0.51759326
+      }, {
+        "latitudeE7": -231981335,
+        "longitudeE7": -458898935,
+        "placeId": "ChIJMYahBmxKzJQRDueRaMFs8jM",
+        "name": "Limpidus e Limpex",
+        "locationConfidence": 0.45591012
+      }, {
+        "latitudeE7": -231978450,
+        "longitudeE7": -458895100,
+        "placeId": "ChIJWfXex0dKzJQREWvzJ51OTd4",
+        "name": "Curso Preparatório Potência - Aulas Particulares, Concursos Público e Pré-vestibular",
+        "locationConfidence": 0.43124285
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 36,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231985866,
+        "longitudeE7": -458892849
+      },
+      "endLocation": {
+        "latitudeE7": -232115066,
+        "longitudeE7": -458575314
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T10:12:53.677Z",
+        "endTimestamp": "2017-11-22T10:29:31.125Z"
+      },
+      "distance": 3551,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 85.53849883699183
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 5.866374048849768
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.014270166991736
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231985836,
+          "lngE7": -458892440
+        }, {
+          "latE7": -232114963,
+          "lngE7": -458571510
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -232115066,
+          "longitudeE7": -458575314,
+          "accuracyMetres": 19
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-22T10:30:24.771Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527,
+        "placeId": "ChIJVV3GlRpLzJQR1cugLKyQkyQ",
+        "address": "Avenida dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - São Paulo, 12227-010, Brasil",
+        "name": "LIT - Integration and Testing Laboratory",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 85.640396,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T10:29:31.125Z",
+        "endTimestamp": "2017-11-22T11:18:40.138Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232115207,
+      "centerLngE7": -458575187,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232124351,
+        "longitudeE7": -458571990,
+        "placeId": "ChIJvTbPkRpLzJQR-nc5HxEKxT0",
+        "address": "Campus do CTA, São José dos Campos - SP, 12227, Brasil",
+        "name": "Av. Brg. Faria Lima, s/nº",
+        "locationConfidence": 9.516761,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232120714,
+        "longitudeE7": -458569228,
+        "placeId": "ChIJG_IWzBdLzJQRpOW23bI3b0k",
+        "address": "Av. Brg. Faria Lima, 1039 - 12)996749491 - Parque Martin Cerere, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Auto Pecas o Compadre",
+        "locationConfidence": 0.5236175
+      }, {
+        "latitudeE7": -232123444,
+        "longitudeE7": -458569880,
+        "placeId": "ChIJ99y-mhpLzJQR63YCc4rqnx0",
+        "name": "Espetinho do papai",
+        "locationConfidence": 0.5147994
+      }, {
+        "latitudeE7": -232120647,
+        "longitudeE7": -458574083,
+        "placeId": "ChIJIbBYKARLzJQRhNMoyLUW4lk",
+        "name": "EMBRATEL",
+        "locationConfidence": 0.30969602,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232097546,
+        "longitudeE7": -458584801,
+        "placeId": "ChIJd1VHGQVLzJQRDqGXCJiwj50",
+        "address": "12227-010 - Av. dos Astronautas, 1919-2137 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "LANCHONETE-ADC-INPE",
+        "locationConfidence": 0.30821347
+      }, {
+        "latitudeE7": -232096581,
+        "longitudeE7": -458578402,
+        "placeId": "ChIJC4G7FQVLzJQRla4w_csFjb0",
+        "address": "Av. dos Astronautas - Campus do CTA, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "ADC INPE",
+        "locationConfidence": 0.22874562
+      }, {
+        "latitudeE7": -232105262,
+        "longitudeE7": -458568519,
+        "placeId": "ChIJ72HOUgVLzJQRDuznUkeNH6k",
+        "address": "Av. Brg. Faria Lima, 899 - Parque Martim Cecere, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Auto Posto Faria Lima",
+        "locationConfidence": 0.21247773
+      }, {
+        "latitudeE7": -232130370,
+        "longitudeE7": -458569550,
+        "placeId": "ChIJP_koez1LzJQRsXzXSFM2jRo",
+        "address": "Av. Brg. Faria Lima, 1219 - Parque Martin Cerere, São José dos Campos - SP, 12227-000, Brasil",
+        "name": "Charlie Auto Center",
+        "locationConfidence": 0.19606042
+      }, {
+        "latitudeE7": -232113852,
+        "longitudeE7": -458569124,
+        "placeId": "ChIJBVlIpBpLzJQRLJ-Tg7AGN-U",
+        "address": "Av. dos Astronautas, 989 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.18351503
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527
+      },
+      "endLocation": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T11:18:40.138Z",
+        "endTimestamp": "2017-11-22T12:06:06.435Z"
+      },
+      "distance": 859,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 85.23369715936694
+      }, {
+        "activityType": "RUNNING",
+        "probability": 7.580149503852956
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.2582563362957515
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232113475,
+          "lngE7": -458582115
+        }, {
+          "latE7": -232085800,
+          "lngE7": -458600502
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1196.1921459890355,
+        "travelMode": "WALK",
+        "confidence": 0.6825934540341375
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232081528,
+          "lngE7": -458596039,
+          "accuracyMeters": 19,
+          "timestamp": "2017-11-22T11:41:28.701Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527,
+        "placeId": "ChIJVV3GlRpLzJQR1cugLKyQkyQ",
+        "address": "Avenida dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - São Paulo, 12227-010, Brasil",
+        "name": "LIT - Integration and Testing Laboratory",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 82.313156,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T12:06:06.435Z",
+        "endTimestamp": "2017-11-22T14:33:32.012Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232115167,
+      "centerLngE7": -458575276,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232124351,
+        "longitudeE7": -458571990,
+        "placeId": "ChIJvTbPkRpLzJQR-nc5HxEKxT0",
+        "address": "Campus do CTA, São José dos Campos - SP, 12227, Brasil",
+        "name": "Av. Brg. Faria Lima, s/nº",
+        "locationConfidence": 10.915723,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232123444,
+        "longitudeE7": -458569880,
+        "placeId": "ChIJ99y-mhpLzJQR63YCc4rqnx0",
+        "name": "Espetinho do papai",
+        "locationConfidence": 1.214663
+      }, {
+        "latitudeE7": -232120714,
+        "longitudeE7": -458569228,
+        "placeId": "ChIJG_IWzBdLzJQRpOW23bI3b0k",
+        "address": "Av. Brg. Faria Lima, 1039 - 12)996749491 - Parque Martin Cerere, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Auto Pecas o Compadre",
+        "locationConfidence": 0.69870096
+      }, {
+        "latitudeE7": -232120647,
+        "longitudeE7": -458574083,
+        "placeId": "ChIJIbBYKARLzJQRhNMoyLUW4lk",
+        "name": "EMBRATEL",
+        "locationConfidence": 0.6288848,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232097546,
+        "longitudeE7": -458584801,
+        "placeId": "ChIJd1VHGQVLzJQRDqGXCJiwj50",
+        "address": "12227-010 - Av. dos Astronautas, 1919-2137 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "LANCHONETE-ADC-INPE",
+        "locationConfidence": 0.4085046
+      }, {
+        "latitudeE7": -232105262,
+        "longitudeE7": -458568519,
+        "placeId": "ChIJ72HOUgVLzJQRDuznUkeNH6k",
+        "address": "Av. Brg. Faria Lima, 899 - Parque Martim Cecere, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Auto Posto Faria Lima",
+        "locationConfidence": 0.2839985
+      }, {
+        "latitudeE7": -232130370,
+        "longitudeE7": -458569550,
+        "placeId": "ChIJP_koez1LzJQRsXzXSFM2jRo",
+        "address": "Av. Brg. Faria Lima, 1219 - Parque Martin Cerere, São José dos Campos - SP, 12227-000, Brasil",
+        "name": "Charlie Auto Center",
+        "locationConfidence": 0.23274302
+      }, {
+        "latitudeE7": -232113852,
+        "longitudeE7": -458569124,
+        "placeId": "ChIJBVlIpBpLzJQRLJ-Tg7AGN-U",
+        "address": "Av. dos Astronautas, 989 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.21384935
+      }, {
+        "latitudeE7": -232136373,
+        "longitudeE7": -458557293,
+        "placeId": "ChIJB5Zt1hhKzJQR1TCanzILiUc",
+        "name": "Arnóbio Ferreira Silva Neto",
+        "locationConfidence": 0.15981968
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 68,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232113970,
+        "longitudeE7": -458580906
+      },
+      "endLocation": {
+        "latitudeE7": -232069378,
+        "longitudeE7": -458611741
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T14:33:32.012Z",
+        "endTimestamp": "2017-11-22T14:39:44.419Z"
+      },
+      "distance": 393,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.22434266384901
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.031804686734111
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4196524933299796
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232114295,
+          "lngE7": -458581237
+        }, {
+          "latE7": -232084865,
+          "lngE7": -458601570
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 460.12960871623636,
+        "travelMode": "WALK",
+        "confidence": 0.9472987727227192
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232069378,
+        "longitudeE7": -458611741,
+        "placeId": "ChIJc9zKrAZLzJQRVB6TbrlCtd0",
+        "address": "Avenida dos Astronautas, 1.758 - Jardim da Granja, São José dos Campos - São Paulo, 12227-010, Brasil",
+        "name": "INPE - National Institute for Space Research",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 85.34148
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T14:39:44.419Z",
+        "endTimestamp": "2017-11-22T15:33:28.282Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232085175,
+      "centerLngE7": -458603625,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232084868,
+        "longitudeE7": -458603936,
+        "placeId": "ChIJH-GCcatLzJQRsTtx5goL5fo",
+        "address": "Av. dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Banco do Brasil",
+        "locationConfidence": 13.488709
+      }, {
+        "latitudeE7": -232082665,
+        "longitudeE7": -458596693,
+        "placeId": "ChIJ-wGjSwRLzJQRO32MQefUpas",
+        "address": "12227-010 - Av. dos Astronautas, 1625-1917 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "LAC INPE",
+        "locationConfidence": 0.2147685
+      }, {
+        "latitudeE7": -232097546,
+        "longitudeE7": -458584801,
+        "placeId": "ChIJd1VHGQVLzJQRDqGXCJiwj50",
+        "address": "12227-010 - Av. dos Astronautas, 1919-2137 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "LANCHONETE-ADC-INPE",
+        "locationConfidence": 0.110134356
+      }, {
+        "latitudeE7": -232090624,
+        "longitudeE7": -458605496,
+        "placeId": "ChIJTVTHZwRLzJQR9vNQ9WtKepM",
+        "address": "12227-010 - Av. dos Astronautas, 1625-1917 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "STI - Serviço de Tecnologia da Informação",
+        "locationConfidence": 0.096513055
+      }, {
+        "latitudeE7": -232094940,
+        "longitudeE7": -458607671,
+        "placeId": "ChIJJxKjgQRLzJQRwom-DcSoGdw",
+        "address": "Av. dos Astronautas - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Biblioteca do INPE",
+        "locationConfidence": 0.07604201
+      }, {
+        "latitudeE7": -232065626,
+        "longitudeE7": -458586879,
+        "placeId": "ChIJXeB11QVLzJQRAUzJbenbkLk",
+        "address": "R. Netuno, 71 - Jardim da Granja, São José dos Campos - SP, 12227-380, Brasil",
+        "name": "Padaria E Confeitaria Santa Rita",
+        "locationConfidence": 0.049576487
+      }, {
+        "latitudeE7": -232065704,
+        "longitudeE7": -458595004,
+        "placeId": "ChIJx-LNFYJLzJQRovhevSbXvvs",
+        "address": "esq com Praça Hércules, frente a caixa d\u0027água - Av. dos Astronautas, 1559 - Jardim da Granja, São José dos Campos - SP, 12227-360, Brasil",
+        "name": "MP Auto Peças Novas e Recuperadas",
+        "locationConfidence": 0.037259415
+      }, {
+        "latitudeE7": -232077150,
+        "longitudeE7": -458579310,
+        "placeId": "ChIJd3uqvgVLzJQRKhFoSOCelGs",
+        "name": "padariazika",
+        "locationConfidence": 0.037068266
+      }, {
+        "latitudeE7": -232080495,
+        "longitudeE7": -458581761,
+        "placeId": "ChIJ8ZqTugVLzJQRmm3AqqwePcE",
+        "name": "Auto Center Ramos",
+        "locationConfidence": 0.030579258
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232069378,
+        "longitudeE7": -458611741
+      },
+      "endLocation": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T15:33:28.282Z",
+        "endTimestamp": "2017-11-22T15:53:58.073Z"
+      },
+      "distance": 449,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.58551272591677
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.336689079182661
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.7267354662592678
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232089385,
+          "lngE7": -458609466
+        }, {
+          "latE7": -232113475,
+          "lngE7": -458582115
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 390.92130779049796,
+        "travelMode": "WALK",
+        "confidence": 0.9845316859123489
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527,
+        "placeId": "ChIJVV3GlRpLzJQR1cugLKyQkyQ",
+        "address": "Avenida dos Astronautas, 1758 - Jardim da Granja, São José dos Campos - São Paulo, 12227-010, Brasil",
+        "name": "LIT - Integration and Testing Laboratory",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 68.5512,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T15:53:58.073Z",
+        "endTimestamp": "2017-11-22T20:04:50.157Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232115049,
+      "centerLngE7": -458575328,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232124351,
+        "longitudeE7": -458571990,
+        "placeId": "ChIJvTbPkRpLzJQR-nc5HxEKxT0",
+        "address": "Campus do CTA, São José dos Campos - SP, 12227, Brasil",
+        "name": "Av. Brg. Faria Lima, s/nº",
+        "locationConfidence": 21.754793,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232123444,
+        "longitudeE7": -458569880,
+        "placeId": "ChIJ99y-mhpLzJQR63YCc4rqnx0",
+        "name": "Espetinho do papai",
+        "locationConfidence": 2.6974802
+      }, {
+        "latitudeE7": -232120647,
+        "longitudeE7": -458574083,
+        "placeId": "ChIJIbBYKARLzJQRhNMoyLUW4lk",
+        "name": "EMBRATEL",
+        "locationConfidence": 1.1330692,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -232120714,
+        "longitudeE7": -458569228,
+        "placeId": "ChIJG_IWzBdLzJQRpOW23bI3b0k",
+        "address": "Av. Brg. Faria Lima, 1039 - 12)996749491 - Parque Martin Cerere, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Auto Pecas o Compadre",
+        "locationConfidence": 0.96011513
+      }, {
+        "latitudeE7": -232097546,
+        "longitudeE7": -458584801,
+        "placeId": "ChIJd1VHGQVLzJQRDqGXCJiwj50",
+        "address": "12227-010 - Av. dos Astronautas, 1919-2137 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "LANCHONETE-ADC-INPE",
+        "locationConfidence": 0.5247214
+      }, {
+        "latitudeE7": -232115314,
+        "longitudeE7": -458569269,
+        "placeId": "ChIJzV2WoxpLzJQRQg7M8cMXdGo",
+        "address": "Av. dos Astronautas, 1007 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.43454403
+      }, {
+        "latitudeE7": -232113852,
+        "longitudeE7": -458569124,
+        "placeId": "ChIJBVlIpBpLzJQRLJ-Tg7AGN-U",
+        "address": "Av. dos Astronautas, 989 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.27599615
+      }, {
+        "latitudeE7": -232117927,
+        "longitudeE7": -458569675,
+        "placeId": "ChIJPwZ4ohpLzJQRig_OUDKqDv0",
+        "address": "Av. dos Astronautas, 1029 - Jardim da Granja, São José dos Campos - SP, 12227-082, Brasil",
+        "locationConfidence": 0.21248968
+      }, {
+        "latitudeE7": -232130370,
+        "longitudeE7": -458569550,
+        "placeId": "ChIJP_koez1LzJQRsXzXSFM2jRo",
+        "address": "Av. Brg. Faria Lima, 1219 - Parque Martin Cerere, São José dos Campos - SP, 12227-000, Brasil",
+        "name": "Charlie Auto Center",
+        "locationConfidence": 0.2045825
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232110244,
+        "longitudeE7": -458578527
+      },
+      "endLocation": {
+        "latitudeE7": -232097157,
+        "longitudeE7": -458578430
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T20:04:50.157Z",
+        "endTimestamp": "2017-11-22T20:08:11.507Z"
+      },
+      "distance": 222,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.0910532700469
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 8.109794989571126
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.38052223487652626
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232113475,
+          "lngE7": -458582115
+        }, {
+          "latE7": -232096080,
+          "lngE7": -458573379
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 431.60869696277274,
+        "travelMode": "WALK",
+        "confidence": 0.7907736682737058
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232096581,
+        "longitudeE7": -458578402,
+        "placeId": "ChIJC4G7FQVLzJQRla4w_csFjb0",
+        "address": "Av. dos Astronautas - Campus do CTA, São José dos Campos - São Paulo, 12227-010, Brasil",
+        "name": "ADC INPE",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 85.52131
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T20:08:11.507Z",
+        "endTimestamp": "2017-11-22T20:31:02.402Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232097229,
+      "centerLngE7": -458578271,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232094230,
+        "longitudeE7": -458579034,
+        "placeId": "ChIJC4G7FQVLzJQRla4w_csFjb0",
+        "address": "Av. dos Astronautas - Campus do CTA, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "GINÁSIO POLIESPORTIVO - ADC INPE",
+        "locationConfidence": 8.730191
+      }, {
+        "latitudeE7": -232097546,
+        "longitudeE7": -458584801,
+        "placeId": "ChIJd1VHGQVLzJQRDqGXCJiwj50",
+        "address": "12227-010 - Av. dos Astronautas, 1919-2137 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brazil",
+        "name": "LANCHONETE-ADC-INPE",
+        "locationConfidence": 1.7597734
+      }, {
+        "latitudeE7": -232081984,
+        "longitudeE7": -458564652,
+        "placeId": "ChIJ_YbXfwVLzJQRM7egpQhUmJg",
+        "address": "Praça Marte, 104 - Jardim da Granja, São José dos Campos - SP, 12227-430, Brasil",
+        "name": "Praça Marte",
+        "locationConfidence": 1.2888788
+      }, {
+        "latitudeE7": -232081238,
+        "longitudeE7": -458581671,
+        "placeId": "ChIJ1ZBOpQVLzJQROAuFHyvpm8M",
+        "address": "Jardim da Granja, São José dos Campos - SP, 12227-460, Brasil",
+        "name": "Av. dos Astronautas, 1795",
+        "locationConfidence": 0.42090604
+      }, {
+        "latitudeE7": -232104626,
+        "longitudeE7": -458554915,
+        "placeId": "ChIJn2Y_GRBLzJQRkDvfYaq_p3c",
+        "address": "Av. dos Tangarás, 18 - Jardim Uira, São José dos Campos - SP, 12227-580, Brasil",
+        "name": "Padaria Alaska",
+        "locationConfidence": 0.1985754
+      }, {
+        "latitudeE7": -232089484,
+        "longitudeE7": -458574032,
+        "placeId": "ChIJLacWcgVLzJQR1fdkjGHAut4",
+        "address": "Av. dos Astronautas, 1915 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Chaplin Lanches",
+        "locationConfidence": 0.11203612
+      }, {
+        "latitudeE7": -232086621,
+        "longitudeE7": -458577201,
+        "placeId": "ChIJU5_gCgVLzJQR9ZAmSX_L7kI",
+        "address": "Av. dos Astronautas, 1855 - Jardim da Granja, São José dos Campos - SP, 12227-010, Brasil",
+        "name": "Ritchellus Lanches E Acai 2",
+        "locationConfidence": 0.093282126
+      }, {
+        "latitudeE7": -232080495,
+        "longitudeE7": -458581761,
+        "placeId": "ChIJ8ZqTugVLzJQRmm3AqqwePcE",
+        "name": "Auto Center Ramos",
+        "locationConfidence": 0.09277464
+      }, {
+        "latitudeE7": -232077150,
+        "longitudeE7": -458579310,
+        "placeId": "ChIJd3uqvgVLzJQRKhFoSOCelGs",
+        "name": "padariazika",
+        "locationConfidence": 0.08395424
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232096581,
+        "longitudeE7": -458578402
+      },
+      "endLocation": {
+        "latitudeE7": -232048811,
+        "longitudeE7": -458713254
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T20:31:02.402Z",
+        "endTimestamp": "2017-11-22T21:44:52.811Z"
+      },
+      "distance": 1098,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 44.199249278456186
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.75532297526145
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 7.202452780007089
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232092227,
+          "lngE7": -458577690
+        }, {
+          "latE7": -232050571,
+          "lngE7": -458715057
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2322.6246005861085,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232061331,
+        "longitudeE7": -458678440
+      },
+      "endLocation": {
+        "latitudeE7": -232003544,
+        "longitudeE7": -458839096
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T21:44:52.811Z",
+        "endTimestamp": "2017-11-22T21:54:53.434Z"
+      },
+      "distance": 1698,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 60.40655611165319
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 22.22066586555066
+      }, {
+        "activityType": "WALKING",
+        "probability": 12.658851290698426
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -232003544,
+          "longitudeE7": -458839096
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-22T21:54:53.434Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232005661,
+        "longitudeE7": -458833211
+      },
+      "endLocation": {
+        "latitudeE7": -231984490,
+        "longitudeE7": -458892219
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T21:54:53.434Z",
+        "endTimestamp": "2017-11-22T22:04:46.161Z"
+      },
+      "distance": 646,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 59.21400932792884
+      }, {
+        "activityType": "CYCLING",
+        "probability": 15.022309560604091
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 14.090312632269406
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232005882,
+          "lngE7": -458833427
+        }, {
+          "latE7": -231984539,
+          "lngE7": -458892631
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1045.1141412232657,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984490,
+        "longitudeE7": -458892219
+      },
+      "endLocation": {
+        "latitudeE7": -231985771,
+        "longitudeE7": -458892421
+      },
+      "duration": {
+        "startTimestamp": "2017-11-22T22:04:46.161Z",
+        "endTimestamp": "2017-11-24T15:01:23.826Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231989443,
+          "lngE7": -458890260,
+          "accuracyMeters": 27,
+          "timestamp": "2017-11-23T15:40:37.462Z"
+        }, {
+          "latE7": -231993425,
+          "lngE7": -458895467,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-23T15:51:02.977Z"
+        }, {
+          "latE7": -231983340,
+          "lngE7": -458899653,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-23T16:58:25.853Z"
+        }, {
+          "latE7": -231993302,
+          "lngE7": -458900465,
+          "accuracyMeters": 7,
+          "timestamp": "2017-11-23T18:52:39.876Z"
+        }, {
+          "latE7": -232006480,
+          "lngE7": -458912641,
+          "accuracyMeters": 7,
+          "timestamp": "2017-11-23T18:57:04.876Z"
+        }, {
+          "latE7": -231985780,
+          "lngE7": -458894926,
+          "accuracyMeters": 37,
+          "timestamp": "2017-11-24T14:54:26.113Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 869.6331531713872
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231985771,
+        "longitudeE7": -458892421
+      },
+      "endLocation": {
+        "latitudeE7": -231992721,
+        "longitudeE7": -458906221
+      },
+      "duration": {
+        "startTimestamp": "2017-11-24T15:01:23.826Z",
+        "endTimestamp": "2017-11-24T15:04:31.013Z"
+      },
+      "distance": 164,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 65.42734202028329
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 27.971360374107572
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 5.595170945444592
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231985778,
+          "lngE7": -458892478
+        }, {
+          "latE7": -231992778,
+          "lngE7": -458906059
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 246.59711849634678,
+        "travelMode": "WALK",
+        "confidence": 0.9986572620739871
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231992721,
+        "longitudeE7": -458906221
+      },
+      "endLocation": {
+        "latitudeE7": -231984457,
+        "longitudeE7": -458896248
+      },
+      "duration": {
+        "startTimestamp": "2017-11-24T15:04:31.013Z",
+        "endTimestamp": "2017-11-27T13:10:52.126Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232009169,
+          "lngE7": -458912698,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-24T16:03:58.159Z"
+        }, {
+          "latE7": -231983979,
+          "lngE7": -458893426,
+          "accuracyMeters": 23,
+          "timestamp": "2017-11-24T20:33:56.486Z"
+        }, {
+          "latE7": -231987405,
+          "lngE7": -458896732,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-25T01:05:19.027Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 620.9983891466268
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984457,
+        "longitudeE7": -458896248
+      },
+      "endLocation": {
+        "latitudeE7": -231984687,
+        "longitudeE7": -458897448
+      },
+      "duration": {
+        "startTimestamp": "2017-11-27T13:10:52.126Z",
+        "endTimestamp": "2017-11-27T13:13:52.905Z"
+      },
+      "distance": 12,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 70.87571362640325
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 25.35805107820161
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.7175018463737626
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984500,
+          "lngE7": -458900032
+        }, {
+          "latE7": -231984710,
+          "lngE7": -458900032
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2.331497666141713,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984687,
+        "longitudeE7": -458897448
+      },
+      "endLocation": {
+        "latitudeE7": -231993785,
+        "longitudeE7": -458895929
+      },
+      "duration": {
+        "startTimestamp": "2017-11-27T13:13:52.905Z",
+        "endTimestamp": "2017-11-28T15:18:27.406Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231985196,
+          "lngE7": -458900556,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-27T13:15:27.176Z"
+        }, {
+          "latE7": -231986041,
+          "lngE7": -458895282,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-28T12:54:07.903Z"
+        }, {
+          "latE7": -231988184,
+          "lngE7": -458914795,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-28T13:04:30.589Z"
+        }, {
+          "latE7": -231989889,
+          "lngE7": -458890974,
+          "accuracyMeters": 26,
+          "timestamp": "2017-11-28T15:05:52.503Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 598.672090622709
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231993785,
+        "longitudeE7": -458895929
+      },
+      "endLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "duration": {
+        "startTimestamp": "2017-11-28T15:18:27.406Z",
+        "endTimestamp": "2017-11-28T15:40:45.733Z"
+      },
+      "distance": 752,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 90.49067350998678
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 8.16006307019497
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.8030163310320881
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231993961,
+          "lngE7": -458895874
+        }, {
+          "latE7": -232007083,
+          "lngE7": -458920135
+        }, {
+          "latE7": -231988182,
+          "lngE7": -458892135
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 102.95120850415887,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -232006245,
+          "lngE7": -458921051,
+          "accuracyMeters": 35,
+          "timestamp": "2017-11-28T15:22:34.980Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807
+      },
+      "endLocation": {
+        "latitudeE7": -231984666,
+        "longitudeE7": -458892881
+      },
+      "duration": {
+        "startTimestamp": "2017-11-28T15:40:45.733Z",
+        "endTimestamp": "2017-11-30T10:03:26.465Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -231985184,
+          "lngE7": -458898215,
+          "accuracyMeters": 26,
+          "timestamp": "2017-11-28T22:13:12.991Z"
+        }, {
+          "latE7": -231983807,
+          "lngE7": -458892652,
+          "accuracyMeters": 20,
+          "timestamp": "2017-11-30T00:25:36.298Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 126.01488663652655
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984666,
+        "longitudeE7": -458892881
+      },
+      "endLocation": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T10:03:26.465Z",
+        "endTimestamp": "2017-11-30T10:24:30.991Z"
+      },
+      "distance": 10794,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 86.01160630316585
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 11.774255005199683
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.6145450046049281
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231984634,
+          "lngE7": -458892631
+        }, {
+          "latE7": -231564693,
+          "lngE7": -457931594
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231572982,
+          "longitudeE7": -457926893
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-30T10:24:30.991Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893,
+        "placeId": "ChIJac0kXTRMzJQRoLj-d1Eyrzs",
+        "address": "Estrada Doutor Altino Bondensan, 500 - Eugênio de Melo, São José dos Campos - São Paulo, 12247-016, Brasil",
+        "name": "Technology Park São José dos Campos",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 99.972084,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T10:24:30.991Z",
+        "endTimestamp": "2017-11-30T13:22:27.366Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": -231575301,
+          "longitudeE7": -457934913,
+          "placeId": "ChIJnWmWSjRMzJQR_pOhWX1-ZaM",
+          "address": "Estr. Dr. Altino Bondensan, 500 - Coqueiro, São José dos Campos - São Paulo, 12247-016, Brasil",
+          "name": "Centro Nacional de Monitoramento e Alertas de Desastres Naturais",
+          "sourceInfo": {
+            "deviceTag": 1015178271
+          },
+          "locationConfidence": 98.58886,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-11-30T10:24:30.991Z",
+          "endTimestamp": "2017-11-30T13:22:27.366Z"
+        },
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "centerLatE7": -231576533,
+        "centerLngE7": -457934722,
+        "visitConfidence": 92,
+        "otherCandidateLocations": [{
+          "latitudeE7": -231577523,
+          "longitudeE7": -457932898,
+          "placeId": "ChIJnWmWSjRMzJQR_pOhWX1-ZaM",
+          "address": "Estrada Dr. Altino Bondensan, 500 - Eugênio de Melo, São José dos Campos - SP, 12247-016, Brasil",
+          "name": "CEMADEN",
+          "locationConfidence": 0.50506264,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231573376,
+          "longitudeE7": -457913589,
+          "placeId": "ChIJP6sQor9LzJQR_J93-OX3L3U",
+          "name": "Oralls",
+          "locationConfidence": 0.07924594,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231575418,
+          "longitudeE7": -457930219,
+          "placeId": "ChIJhUYzfGtKzJQRfysFTXnKeMs",
+          "address": "Parque Tecnológico Centro Empresarial II - Estrada Dr. Altino Bondensan, 500 - Distrito - Eugênio de Melo, São José dos Campos - SP, 12247-016, Brazil",
+          "name": "Geopixel",
+          "locationConfidence": 0.070235334,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231577166,
+          "longitudeE7": -457909809,
+          "placeId": "ChIJYWzCPjVMzJQR-aWOps18fSI",
+          "name": "Ericsson",
+          "locationConfidence": 0.06659546,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231577948,
+          "longitudeE7": -457917685,
+          "placeId": "ChIJnZjyCDVMzJQRz51vvKev3cM",
+          "address": "Estrada Dr. Altino Bondensan, 500 - Distrito Eugênio de Melo, São José dos Campos - SP, 12230-002, Brasil",
+          "name": "Núcleo de Estruturas Leves - LEL/IPT",
+          "locationConfidence": 0.06028014,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231568693,
+          "longitudeE7": -457903786,
+          "placeId": "ChIJqz65LjVMzJQRImCUtCmMmSA",
+          "address": "Av. Dr. Altino Bondensan, 500 CE IV - sala 1303 - Eugênio de Melo, São José dos Campos - SP, 12247-016, Brazil",
+          "name": "LACE Engenharia",
+          "locationConfidence": 0.0415218,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231573122,
+          "longitudeE7": -457910938,
+          "placeId": "ChIJIWE7MjVMzJQRuAJBj2GvIaE",
+          "address": "Parque Tecnológico de - Rod. Pres. Dutra, 500 - Eugênio de Melo, São José dos Campos - SP, 12247-016, Brasil",
+          "name": "Incubadora de Negocios - PQTEC",
+          "locationConfidence": 0.0382337,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231567104,
+          "longitudeE7": -457906539,
+          "placeId": "ChIJXVnDJzVMzJQRDqvLdSFObZ0",
+          "address": "Centro Empresarial do Vale de km 154,7 - Rod. Pres. Dutra, Prédio 17 - Coqueiro, São José dos Campos - SP, 12240-420, Brasil",
+          "name": "FT Sistemas S.A. UAVs",
+          "locationConfidence": 0.0349431,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": -231569648,
+          "longitudeE7": -457914871,
+          "placeId": "ChIJ-WljU4_4zJQRgOMPTFS2bD0",
+          "address": "Av. Dr. João Baptista Soares de Queiroz Júnior, 781 - Jardim das Industrias, São José dos Campos - SP, 12240-000, Brasil",
+          "name": "Sistema Athos",
+          "locationConfidence": 0.03427595,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 89,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": -231576533,
+      "centerLngE7": -457934722,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232299113,
+        "longitudeE7": -458849587,
+        "placeId": "ChIJcd8JM6rMzZQRHZYDmhgvtz4",
+        "address": "Jacareí - SP, Brasil",
+        "locationConfidence": 0.01449674,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231618676,
+        "longitudeE7": -457951994,
+        "placeId": "ChIJJ9MAjUlMzJQRZQ6dslvTgAc",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.0044370205,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231624373,
+        "longitudeE7": -457947314,
+        "placeId": "ChIJTwf7KUpMzJQRAg3_fnFGVyg",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 0.0037299804,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231579408,
+        "longitudeE7": -457967704,
+        "placeId": "ChIJK3YW5DZMzJQRIWQ9sZFm_NE",
+        "address": "Rod. Pres. Dutra, 34 - Jardim Satelite, São José dos Campos - SP, 12230-002, Brasil",
+        "locationConfidence": 0.002808832,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231582235,
+        "longitudeE7": -457882265,
+        "placeId": "ChIJ0cQzfbVNzJQRwP1rdYKWC-c",
+        "address": "Jardim Coqueiro, São José dos Campos - SP, 12247-004, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, 501",
+        "locationConfidence": 0.002283157,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -231621524,
+        "longitudeE7": -457949654,
+        "placeId": "ChIJ1eTliElMzJQR2FCd5OZIViM",
+        "address": "Jardim Santa Ines I, São José dos Campos - SP, 23892-275, Brasil",
+        "name": "Av. Cesare Monsueto Giulio Lattes, s/n",
+        "locationConfidence": 1.6235613E-4,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231572982,
+        "longitudeE7": -457926893
+      },
+      "endLocation": {
+        "latitudeE7": -231984398,
+        "longitudeE7": -458897387
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T13:22:27.366Z",
+        "endTimestamp": "2017-11-30T13:56:39.093Z"
+      },
+      "distance": 10773,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 88.81724920660398
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 5.056789226369675
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.647771379257113
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231564693,
+          "lngE7": -457931594
+        }, {
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -231984398,
+          "longitudeE7": -458897387,
+          "accuracyMetres": 50
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-30T13:57:54.998Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306,
+        "placeId": "ChIJt6XeVWlKzJQROPDP-Nob6Ek",
+        "address": "Avenida Engenheiro Francisco José Longo, 622 - Jardim Sao Dimas, São José dos Campos - São Paulo, Brasil",
+        "name": "Edifício Ipanema",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 54.100086,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T13:56:39.093Z",
+        "endTimestamp": "2017-11-30T16:58:50.966Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -231984701,
+      "centerLngE7": -458895202,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Av. Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "locationConfidence": 26.315771
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJhaVeRWlKzJQRCvGaiEIEF7I",
+        "address": "Av. Engenheiro Francisco José Longo, 673 - Jardim Sao Dimas, São José dos Campos - SP, 12245-001, Brasil",
+        "name": "Sirva-se Bem II",
+        "locationConfidence": 0.6478049
+      }, {
+        "latitudeE7": -231982422,
+        "longitudeE7": -458899264,
+        "placeId": "ChIJd25NAWxKzJQRZcmdlPwcHl0",
+        "address": "R. Helena David Neme, 103 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Pet Shop São Dimas",
+        "locationConfidence": 0.5734089
+      }, {
+        "latitudeE7": -231993499,
+        "longitudeE7": -458897287,
+        "placeId": "ChIJLcNxs25KzJQRM01jI7n7KVY",
+        "address": "Av. Dr. Ademar de Barros, 1050 - Vila Adyana, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "Estilus Ótica - São Dimas",
+        "locationConfidence": 0.5038107
+      }, {
+        "latitudeE7": -231988048,
+        "longitudeE7": -458901956,
+        "placeId": "ChIJPaR8dGxKzJQRv8dxu86QZQc",
+        "name": "Portal of Knowledge Books",
+        "locationConfidence": 0.42856124
+      }, {
+        "latitudeE7": -231986696,
+        "longitudeE7": -458908313,
+        "placeId": "ChIJK_YEH2xKzJQRBZ-KVJ4bXe8",
+        "address": "R. Helena David Neme, 113 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Consultorio Dr Fabricio Teles Gallo",
+        "locationConfidence": 0.41967458
+      }, {
+        "latitudeE7": -231979851,
+        "longitudeE7": -458898996,
+        "placeId": "ChIJde4nBmxKzJQRyfC-jqm1jQg",
+        "name": "Beleza. Com",
+        "locationConfidence": 0.413521
+      }, {
+        "latitudeE7": -231981335,
+        "longitudeE7": -458898935,
+        "placeId": "ChIJMYahBmxKzJQRDueRaMFs8jM",
+        "name": "Limpidus e Limpex",
+        "locationConfidence": 0.35383204
+      }, {
+        "latitudeE7": -231972379,
+        "longitudeE7": -458917545,
+        "placeId": "ChIJranZWmxKzJQRjWWA_z-KAuc",
+        "address": "Av. Dr. Ademar de Barros, 566 - Sala 506 - Vila Adyana, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "Dra. Paula Adriana Pallu Oliveira",
+        "locationConfidence": 0.32767412
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "endLocation": {
+        "latitudeE7": -232010974,
+        "longitudeE7": -458922611
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T16:58:50.966Z",
+        "endTimestamp": "2017-11-30T17:04:04.557Z"
+      },
+      "distance": 313,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 90.86594383284677
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.848756524890481
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.6762905913642686
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231992721,
+          "lngE7": -458899955
+        }, {
+          "latE7": -232009944,
+          "lngE7": -458925590
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 414.8462335515828,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232010009,
+        "longitudeE7": -458924521,
+        "placeId": "ChIJ-ac3HRhKzJQRZbosKZdA_a4",
+        "address": "Avenida Dr. Adhemar de Barros, 999 - Jardim São Dimas, São José dos Campos - São Paulo, 12245-010, Brasil",
+        "name": "SESC",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 88.23632,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T17:04:04.557Z",
+        "endTimestamp": "2017-11-30T18:16:04.995Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -232010750,
+      "centerLngE7": -458922106,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405,
+        "placeId": "ChIJF7dEgW5KzJQRF2BXMrcNzMI",
+        "address": "R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP, 12243-750, Brasil",
+        "name": "Park Santos Dumont",
+        "locationConfidence": 4.733027
+      }, {
+        "latitudeE7": -232002834,
+        "longitudeE7": -458933301,
+        "placeId": "ChIJiQpZBm5KzJQRVzMkJDdZuPU",
+        "address": "R. Afonso César de Siqueira, 225 - Vila Adyana, São José dos Campos - SP, 12243-710, Brasil",
+        "name": "Oftalmovale",
+        "locationConfidence": 1.0601108
+      }, {
+        "latitudeE7": -232019160,
+        "longitudeE7": -458932719,
+        "placeId": "ChIJ0S03RW5KzJQRpDFKdUa5jf8",
+        "name": "Quintessência Academia Studio",
+        "locationConfidence": 1.01197
+      }, {
+        "latitudeE7": -232017168,
+        "longitudeE7": -458932110,
+        "placeId": "ChIJZRvBSW5KzJQRpwJqY8FfFS8",
+        "address": "R. Esperança, 282 - sls. 21/23 - Vila Adyana, São José dos Campos - SP, 12243-700, Brasil",
+        "name": "Marcela Laia Khouri",
+        "locationConfidence": 0.12967747
+      }, {
+        "latitudeE7": -232006795,
+        "longitudeE7": -458932293,
+        "placeId": "ChIJ8ctFa25KzJQRZr8WtTyz_Gs",
+        "address": "R. Afonso César de Siqueira, 262 - Vila Adyana, São José dos Campos - SP, 12243-710, Brasil",
+        "name": "Consultório Odontológico Dr. Alexandre Ribeiro",
+        "locationConfidence": 0.12808226
+      }, {
+        "latitudeE7": -231995538,
+        "longitudeE7": -458935040,
+        "placeId": "ChIJV1pK4W1KzJQR4FVNT3S6H84",
+        "address": "R. Itajai, 80 - sala 402 - Altos do Esplanada, São José dos Campos - SP, 12246-858, Brasil",
+        "name": "Real Smile Odontologia",
+        "locationConfidence": 0.106790364
+      }, {
+        "latitudeE7": -232017810,
+        "longitudeE7": -458930896,
+        "placeId": "ChIJvWeFS25KzJQRVgbKyQKOnHU",
+        "address": "Av. Dr. Ademar de Barros, 1080 - Vila Adyana, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "Nelson\u0027s Ótica",
+        "locationConfidence": 0.0990027
+      }, {
+        "latitudeE7": -232020583,
+        "longitudeE7": -458932562,
+        "placeId": "ChIJVVWhSm5KzJQRUSPMxPvpXl8",
+        "address": "Av. Dr. Ademar de Barros, 1114 - Vila Adyana, São José dos Campos - SP, 12245-010, Brasil",
+        "name": "Comunicare Aparelhos Auditivos",
+        "locationConfidence": 0.09725396
+      }, {
+        "latitudeE7": -231997445,
+        "longitudeE7": -458924980,
+        "placeId": "ChIJrSlGcHJKzJQRA3I23DrM2v4",
+        "name": "Inovadoc documentação odontológica",
+        "locationConfidence": 0.09551385
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 75,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -232010009,
+        "longitudeE7": -458924521
+      },
+      "endLocation": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T18:16:04.995Z",
+        "endTimestamp": "2017-11-30T18:20:21.330Z"
+      },
+      "distance": 339,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.71437937338365
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.549005881787659
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.951815709996205
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -232009677,
+          "lngE7": -458925476
+        }, {
+          "latE7": -231984786,
+          "lngE7": -458892593
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 578.8748989088627,
+        "travelMode": "WALK",
+        "confidence": 0.9496902383410678
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -231984980,
+        "longitudeE7": -458894306,
+        "placeId": "ChIJt6XeVWlKzJQROPDP-Nob6Ek",
+        "address": "Avenida Engenheiro Francisco José Longo, 622 - Jardim Sao Dimas, São José dos Campos - São Paulo, Brasil",
+        "name": "Edifício Ipanema",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 73.133415
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T18:20:21.330Z",
+        "endTimestamp": "2017-11-30T22:46:34.095Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -231984988,
+      "centerLngE7": -458895595,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": -231988368,
+        "longitudeE7": -458893807,
+        "placeId": "ChIJ5yf2-WtKzJQRQg8A0QUUuZs",
+        "address": "Av. Engenheiro Francisco José Longo, 652 - Jardim Sao Dimas, São José dos Campos - SP, 12245-000, Brasil",
+        "name": "Com-Sciência IV Health Food Store",
+        "locationConfidence": 9.53271
+      }, {
+        "latitudeE7": -231990355,
+        "longitudeE7": -458898324,
+        "placeId": "ChIJQ_svrW5KzJQRfvGXohLi1NM",
+        "address": "R. Helena David Neme, 183 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 4.198045
+      }, {
+        "latitudeE7": -231999426,
+        "longitudeE7": -458910405,
+        "placeId": "ChIJF7dEgW5KzJQRF2BXMrcNzMI",
+        "address": "R. Eng. Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP, 12243-750, Brasil",
+        "name": "Park Santos Dumont",
+        "locationConfidence": 1.1710587
+      }, {
+        "latitudeE7": -231986696,
+        "longitudeE7": -458908313,
+        "placeId": "ChIJK_YEH2xKzJQRBZ-KVJ4bXe8",
+        "address": "R. Helena David Neme, 113 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Consultorio Dr Fabricio Teles Gallo",
+        "locationConfidence": 0.4244996
+      }, {
+        "latitudeE7": -231982422,
+        "longitudeE7": -458899264,
+        "placeId": "ChIJd25NAWxKzJQRZcmdlPwcHl0",
+        "address": "R. Helena David Neme, 103 - Jardim Sao Dimas, São José dos Campos - SP, 12245-310, Brasil",
+        "name": "Pet Shop São Dimas",
+        "locationConfidence": 0.41515404
+      }, {
+        "latitudeE7": -231989407,
+        "longitudeE7": -458890996,
+        "placeId": "ChIJhaVeRWlKzJQRCvGaiEIEF7I",
+        "address": "Av. Engenheiro Francisco José Longo, 673 - Jardim Sao Dimas, São José dos Campos - SP, 12245-001, Brasil",
+        "name": "Sirva-se Bem II",
+        "locationConfidence": 0.34576708
+      }, {
+        "latitudeE7": -231993499,
+        "longitudeE7": -458897287,
+        "placeId": "ChIJLcNxs25KzJQRM01jI7n7KVY",
+        "address": "Av. Dr. Ademar de Barros, 1050 - Vila Adyana, São José dos Campos - SP, 12245-011, Brasil",
+        "name": "Estilus Ótica - São Dimas",
+        "locationConfidence": 0.3051749
+      }, {
+        "latitudeE7": -231988048,
+        "longitudeE7": -458901956,
+        "placeId": "ChIJPaR8dGxKzJQRv8dxu86QZQc",
+        "name": "Portal of Knowledge Books",
+        "locationConfidence": 0.28832018
+      }, {
+        "latitudeE7": -231979851,
+        "longitudeE7": -458898996,
+        "placeId": "ChIJde4nBmxKzJQRyfC-jqm1jQg",
+        "name": "Beleza. Com",
+        "locationConfidence": 0.27985743
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 58,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -231983259,
+        "longitudeE7": -458897259
+      },
+      "endLocation": {
+        "latitudeE7": -232050429,
+        "longitudeE7": -458984549
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T22:46:34.095Z",
+        "endTimestamp": "2017-11-30T22:56:19.725Z"
+      },
+      "distance": 1163,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 76.89507271694333
+      }, {
+        "activityType": "WALKING",
+        "probability": 17.593892185332617
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.1508147687890022
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -231983280,
+          "lngE7": -458900032
+        }, {
+          "latE7": -232049980,
+          "lngE7": -458984069
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": -232050429,
+          "longitudeE7": -458984549
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-30T22:56:19.725Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -232050429,
+        "longitudeE7": -458984549,
+        "placeId": "ChIJE5vbxnBKzJQRrmfcoklWj8Q",
+        "address": "Rua José Bonifácio, 40 - Vila Ema, São José dos Campos - São Paulo, 12243-340, Brasil",
+        "name": "Taco Loco Tex Mex Brasil",
+        "sourceInfo": {
+          "deviceTag": 1015178271
+        },
+        "locationConfidence": 93.87756
+      },
+      "duration": {
+        "startTimestamp": "2017-11-30T22:56:19.725Z",
+        "endTimestamp": "2017-12-01T00:45:18.026Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -232050912,
+      "centerLngE7": -458983302,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": -232043176,
+        "longitudeE7": -458980834,
+        "placeId": "ChIJ82r6xnBKzJQRZglb4fHqMQQ",
+        "address": "Av. Heitor Villa Lobos, 920 - Vila Ema, São José dos Campos - SP, 12243-340, Brasil",
+        "name": "Villarreal Supermercados",
+        "locationConfidence": 1.243688
+      }, {
+        "latitudeE7": -232046595,
+        "longitudeE7": -458985080,
+        "placeId": "ChIJ9VEFxXBKzJQR6hd5jucUCzM",
+        "address": "Av. Heitor Villa Lobos, 870 - Vila Ema, São José dos Campos - SP, 12243-260, Brasil",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 1.1483335
+      }, {
+        "latitudeE7": -232054030,
+        "longitudeE7": -458977590,
+        "placeId": "ChIJQfxIl3BKzJQR-dG_2G-fMAI",
+        "address": "R. do Serimbura, 200 - Vila Guaianazes, São José dos Campos - SP, 12243-360, Brasil",
+        "name": "Cabana Vila Ema",
+        "locationConfidence": 0.17031649
+      }, {
+        "latitudeE7": -232051422,
+        "longitudeE7": -458978292,
+        "placeId": "ChIJxwYiHnFKzJQRhCItwKjIbBs",
+        "address": "R. do Serimbura, 184 - Vila Ema, São José dos Campos - SP, 12243-360, Brasil",
+        "name": "Villa Vet",
+        "locationConfidence": 0.09947663
+      }, {
+        "latitudeE7": -232046962,
+        "longitudeE7": -458991085,
+        "placeId": "ChIJcWiS0nBKzJQR9eNsGgsdHdU",
+        "address": "Av. Heitor Villa Lobos, 821 - Vila Ema, São José dos Campos - SP, 12243-260, Brasil",
+        "name": "Le Palmier Restaurante",
+        "locationConfidence": 0.098604456
+      }, {
+        "latitudeE7": -232044374,
+        "longitudeE7": -458982734,
+        "placeId": "ChIJCeCw3HBKzJQRfH9nhbYrptI",
+        "address": "Av. Heitor Villa Lobos, 910 - Vila Ema, São José dos Campos - SP, 12243-260, Brasil",
+        "name": "Ruiz Cabelereiros",
+        "locationConfidence": 0.07330343
+      }, {
+        "latitudeE7": -232060124,
+        "longitudeE7": -458970363,
+        "placeId": "ChIJe0_sfnpKzJQRWOfiwaRuXUQ",
+        "address": "R. José Pedro de Carvalho Filho, 28 - Vila Ema, São José dos Campos - SP, 12243-340, Brasil",
+        "name": "Made in Bazar",
+        "locationConfidence": 0.070045136
+      }, {
+        "latitudeE7": -232047737,
+        "longitudeE7": -459002070,
+        "placeId": "ChIJ2y0TIXdKzJQRqvTzrq_oumo",
+        "address": "R. Comendador Remo Cesaroni, 212 - Vila Ema, São José dos Campos - SP, 12243-020, Brasil",
+        "name": "Saboreatéycafé - São José dos Campos",
+        "locationConfidence": 0.0581283
+      }, {
+        "latitudeE7": -232059387,
+        "longitudeE7": -458980861,
+        "placeId": "ChIJR9JjoHBKzJQRNPU5K_0Bf1I",
+        "address": "R. do Serimbura, 288 - sl 1 - Vila Ema, São José dos Campos - SP, 12243-360, Brasil",
+        "name": "Nair Podologia e Massoterapia",
+        "locationConfidence": 0.05721506
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 83,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

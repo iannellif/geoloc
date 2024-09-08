@@ -1,0 +1,112 @@
+{
+  "createdTime": "2014-01-04T12:02:30.689Z",
+  "modifiedTime": "2024-08-17T06:03:44.240Z",
+  "deviceSettings": [{
+    "deviceTag": 1070739048,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-M215F",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-12-17T21:08:03.826Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-12-17T21:08:03.826Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "m21nseea",
+      "device": "m21",
+      "model": "SM-M215F",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": -96166491,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-X900",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2022-12-03T17:17:14.869Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-12-03T17:17:14.869Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "gts8uwifieea",
+      "device": "gts8uwifi",
+      "model": "SM-X900",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": -1644772884,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A528B",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2022-11-30T19:08:32.142Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-11-30T19:08:32.142Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a52sxqeea",
+      "device": "a52sxq",
+      "model": "SM-A528B",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": 1460193331,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-P610",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2021-11-11T09:50:43.558Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2021-11-11T09:50:43.558Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "gta4xlwifieea",
+      "device": "gta4xlwifi",
+      "model": "SM-P610",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
+  "encryptedBackupsControls": {
+    "-1644772884": {
+      "enabled": false
+    },
+    "-96166491": {
+      "enabled": false
+    },
+    "1070739048": {
+      "enabled": false
+    },
+    "1460193331": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2024-05-31T16:59:40.098Z"
+}
